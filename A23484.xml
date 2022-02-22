@@ -1,0 +1,1321 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De termino Trinitatis anno I regni regis Edwardi Quinti</title>
+            <title>Year books (Edward V : 1483)</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1555</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23484</idno>
+            <idno type="STC">STC 9896.5</idno>
+            <idno type="STC">ESTC S122039</idno>
+            <idno type="EEBO-CITATION">22995755</idno>
+            <idno type="OCLC">ocm 22995755</idno>
+            <idno type="VID">26037</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23484)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 26037)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 378:21 or 1794:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>De termino Trinitatis anno I regni regis Edwardi Quinti</title>
+                  <title>Year books (Edward V : 1483)</title>
+               </titleStmt>
+               <extent>[15] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted at London in Fletestrete within Temple Barre, at the signe of the Hande and Starre, by Rycharde Tottel,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>the xij daye of September, in the yere of oure Lorde, 1555.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In Law French.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Item at reel 378:21 identified as STC 9897+.</note>
+                  <note>Reproductions of originals in the Henry E. Huntington Library and Art Gallery and Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="roa">roa</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law reports, digests, etc. --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:26037:1"/>
+            <pb facs="tcp:26037:1" rendition="simple:additions"/>
+            <head>¶ DETERMINO TRINITATIS ANNO. I. regni regis Edwardi quinti.</head>
+            <p>
+               <seg rend="decorInit">E</seg>N brief Dacco<g ref="char:cmbAbbrStroke">̄</g>pt, le def. fuit agad<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> daccompt,<note place="margin">Accompt.</note> par que vn <hi>Capias ad computandu<g ref="char:cmbAbbrStroke">̄</g>,</hi> fuit agarde return<g ref="char:cmbAbbrStroke">̄</g> &amp;c. Et le def. vie<g ref="char:cmbAbbrStroke">̄</g>t ems <hi>par cepi Corpus,</hi> et les auditours fuerunt a luy aſſignes par le court, par que le partie en<g ref="char:EOLhyphen"/>tre enaccompt. Et ceſtuy def. en diſcharge de ceſt ac<g ref="char:EOLhyphen"/>compt pled<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> vn payment a vn I. at Style, par le com<g ref="char:EOLunhyphen"/>maundement le <abbr>pl</abbr>. et le <abbr>pl</abbr> trauer<expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> le commaunde<g ref="char:EOLhyphen"/>ment et ſur <abbr>c</abbr> fuer<g ref="char:cmbAbbrStroke">̄</g> a iſſue, et a<g ref="char:abpre">p̄</g>s liſſue ioyne le def. fuit leſſe a maynpriſe par recogniſau<g ref="char:cmbAbbrStroke">̄</g>z, et puis le iſſue fuit diſcont<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> ꝑ le demyſe le Roy E. quart deuaunt le verdit done, par que le <abbr>pl</abbr> vient en court, <hi>et pria Capias ad co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>putandum</hi> de nouel, ou tiel <abbr>proc</abbr> come le court agard<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>. ¶ <hi>Brian,</hi> moy ſe<g ref="char:cmbAbbrStroke">̄</g>ble <hi>capias ad computandum,</hi> ne ſerra agarde en cel cas, quar le def. adeuau<g ref="char:cmbAbbrStroke">̄</g>t ad ent<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> en accompt, come appiert par recorde et ad accompt, q<g ref="char:cmbAbbrStroke">̄</g>ril ad pied vn paiment de toutz lez deners, et pur auer <hi>capias ad computandum,</hi> il ſerroit pour faire luy de accompt arere quel ne poet eſte, iſſint moy ſem<g ref="char:EOLhyphen"/>ble que reſom<g ref="char:cmbAbbrStroke">̄</g> ſerra agarde, et que il apperoit par attourney, quar les meinparnourz ſont diſcharge par le demiſe le Roye <hi>quod curia con<g ref="char:EOLhyphen"/>ceſſit. ¶ Catiſby,</hi> ſir moy ſemble que <hi>capias ad computandum</hi> ſerra agard<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> de nouel, quar il nad playnm<g ref="char:cmbAbbrStroke">̄</g> accompt, quar il neſt forſque en accompt &amp; il couient a toutz foitz ſi vn ſoit accomptaunt que il ſerra en gard<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>, et nei<g ref="char:cmbAbbrStroke">̄</g> par atturney, quar ſil ſoit troue en arrerages il eſt aiuge en <abbr>execuc</abbr> pur meſme. Et pur <abbr>c</abbr> moy ſe<g ref="char:cmbAbbrStroke">̄</g>ble que la neſt aſcun auter voy dauer luy en <abbr>exe<g ref="char:EOLhyphen"/>cuc</abbr> ſil ſoit troue en arrerages, et pur ceo moy ſemble que <hi>capias ad com<g ref="char:EOLhyphen"/>putandum</hi> ſerra agard<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>. ¶ <hi>Chocke,</hi> ſi vn home ſoit en <abbr>execuc</abbr> par force du<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>capias ad ſatiſfaciendum,</hi> et il vient en court et monſtre <abbr>rel</abbr> del <abbr>pl</abbr>, et pria <hi>Scire facias,</hi> et ad, et le <abbr>pl</abbr> vient et trauerſer le faite et lez partiez ſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t a iſ<g ref="char:EOLhyphen"/>ſue, et puis deuant que ſoit trie le iſſue eſt diſcontinue ꝑ le demiſe le Roy En apres le <abbr>pl</abbr> purroit ſuer vn <hi>Reſcire facias,</hi> enuers le def. que fuit en execucion conteignaunt tout cel matter et liſſue &amp;c. Et ſi le partie def. ne appere en proper parſon le partie <abbr>pl</abbr> nauera auter <hi>capias ad ſatiſfaciendu<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> mes le def. ſerrra reſceu par atturney pur meynten<g ref="char:cmbAbbrStroke">̄</g> ceſt iſſue et iſſint i<g ref="char:EOLhyphen"/>cy. ¶ <hi>Collowe,</hi> ſir moy ſemble que les meinparnors ſerro<g ref="char:cmbAbbrStroke">̄</g>t charges pur auer luy cy eins, et le partie <abbr>pl</abbr> poet auoir vn <hi>capias manucaptores.</hi> s. pour no<g ref="char:cmbAbbrStroke">̄</g> apparaunce. ¶ <hi>Catiſby,</hi> ceo il ne auera, quar le reconi<expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> eſt defete co<g ref="char:cmbAbbrStroke">̄</g>e le remenaunt par dimiſe le Roye, quar lou charge fuit dauer le partie <hi>coram Iuſtic,</hi> mes noſtre maiſter eſt ore mort, et ne ſumus ore ces ſer<g ref="char:EOLhyphen"/>uau<g ref="char:cmbAbbrStroke">̄</g>tz eins le Roy que ore eſt noſtre maiſter, et iſſint lour charge deter<g ref="char:EOLhyphen"/>mine. Et aiorne. ¶ <hi>Ad alium die<g ref="char:cmbAbbrStroke">̄</g>, Vauiſour,</hi> pur le <abbr>pl</abbr> pria vn <hi>Reſcire fa<g ref="char:EOLhyphen"/>cias</hi> enuerz le def. par fair<g ref="char:cmbAbbrStroke">̄</g> luy vener, et pur maintener <abbr>c</abbr> iſſue, quar ſi vn briefe Derrour ſoit port enuers vn que ad recouer en brief de Dette, &amp;
+<pb facs="tcp:26037:2"/>ad le def. en execucion pur meſme le dutie, et puis eſt leſſe a mainpris ꝑ recogniſance, et deuaunt le iudgeme<g ref="char:cmbAbbrStroke">̄</g>t affirme ou diſaffierme le plee eſt diſcontinue par le demyſe le Roy, en cel cas le def. en le briefe Derrour auera vn <hi>Scire facias,</hi> enuers ceſty queſuit en execucion que ſuiſt le brief Derrour pour monſtre pour que il ne auera execucion de primer <abbr>rec</abbr>, quar ſil aueroit tiel brief, auterment il ſerroit ſaunz remedie ſi lauter ne voillet ſuer vn <hi>Reſcire facias,</hi> et le regarnyſhement del briefe Derrour, quar le ley ſerr oit ſi vn ſoit vtlage, et purchace ceo charter de pardone, et ad <hi>Scire facias</hi> enuers le pleintife en le origmal, et deuau<g ref="char:cmbAbbrStroke">̄</g>t que le <hi>Scire facias</hi> eſt returne le Roy murruſt, iſſint que le plee eſt diſcontinue en cel cas nient obſtant ceſt matter vn <hi>capias vtlagar<g ref="char:cmbAbbrStroke">̄</g>.</hi> ſerra agarde enuers luy et al ſuite del partie, <hi>quod fuit conceſſum par curiam.</hi> Et vncore <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur le <hi>ca<g ref="char:EOLhyphen"/>pias</hi> il poit pleder <abbr>c</abbr> ꝑdon, et donq<g ref="char:cmbAbbrStroke">̄</g>s reſpondr<g ref="char:cmbAbbrStroke">̄</g> al partie. Et <abbr>vnc</abbr> en cel cas ceſty que eſt vtlage poet vener et ſuer <hi>Reſcire facias</hi> enuers le pleintife, ſil voet come il fiſt deuaunt, et ſur ceo aueroit ceſt charter allow, et ſil ne voit ſuer le pleintif auera le <hi>capias vtlagai,</hi> et iſſinticy le def. poet vener en court et auera <hi>Scire facias</hi> enuers le pleintife <hi>ad audiendum iuratam,</hi> et ſil ne voet ſuer le pleintife couient ou auterment il ſerra ſauns teme<g ref="char:EOLhyphen"/>die iſſint <hi>Scirc facias</hi> ſerra agarde. ¶ <hi>Collowe</hi> moy ſemble quele pleintif auera reſom<g ref="char:cmbAbbrStroke">̄</g> tout le mater, q<g ref="char:cmbAbbrStroke">̄</g>rle original en cel cas eſt ouſtreme<g ref="char:cmbAbbrStroke">̄</g>t deter<g ref="char:EOLhyphen"/>mine, quar la eſt ſur laccompt vn autre iugement pur eſtre done, et ceo eſt dependant ſur le primer original, iſſint moy ſemble que reſomer ſerr<g ref="char:cmbAbbrStroke">̄</g> agard<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>. ¶ <hi>Catiſby,</hi> ceo ne poet eite, quar le iugement que ſerra done a ore ſerra done ſur le matter commence puis le primer iugeme<g ref="char:cmbAbbrStroke">̄</g>t, come ſi ho<g ref="char:cmbAbbrStroke">̄</g>e recouer en vn accion, et puis il ſuit vn <hi>Scire facias</hi> pour auoir execucion de ceo, la partie poet pleder<g ref="char:cmbAbbrStroke">̄</g> ſur le <hi>Scire facias</hi> cheſcun maner de plee. Et ſi errour ſoit en le iugement done le <hi>ſcire facias,</hi> adonques le partie poet auoier bone briefe Derrour ſur meſme le iugement. Le primer iugem<g ref="char:cmbAbbrStroke">̄</g>t eſteant en ſon force. Et meſme le ley eſt del cas de rediſſm<g ref="char:cmbAbbrStroke">̄</g>, quar ceux po ient eſte reuerſion et le primer iugement en lour force, iſſint en maner il eſt vn original, et le primer original deter mine iſſint icy apres le iuge<g ref="char:EOLhyphen"/>ment done pour accompt, et puis <hi>capias ad computandum</hi> pour auoir ac<g ref="char:EOLhyphen"/>compt, et les parties ſur laccompt ſont a iſſue, et puis eſt diſcontinue ꝑ demyſe le Roy ore le <abbr>pl</abbr> poet auoir <hi>Reſcrire facias,</hi> come ad eſte dit comꝑ naunt tout le matter puis le iudgement, et par cel <hi>Relcire facias</hi> le plee ſerra parentre lez parties en meſme le degree que il fuit deuaunt le diſ<g ref="char:EOLhyphen"/>continue en meſme le cas ſil entre en laccompt gratis ou par <hi>capias ad computandum</hi> ou <hi>ſcire facias ad computandum</hi> &amp;c. ¶ <hi>Collowe,</hi> ſil ne poet auoir reſom<g ref="char:cmbAbbrStroke">̄</g> de tout le mater puis le original, donques il poet auoir <hi>ſcire ſacias</hi> hors del primer iugement pour monſtre pour que il ne doit accompt<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> de nouel. ¶ <hi>Chok</hi> abſit, quar il fuit graunde miſchiefe, quar ſil doit accompter de nouel, adonques par cas enſucroit graund imſcheif
+<pb facs="tcp:26037:2" rendition="simple:additions"/>a lun partic ou a lautre, quar ſil doit accompter de nouel, donques il co uient dauoter nouel auditonrs aſſigne et les auditours par cas ne voil let allower tielr paymentes come lautre alower et ꝑ cas ilz voillont a<g ref="char:EOLhyphen"/>lower pluis que lautre voillont le quel ſerr<g ref="char:cmbAbbrStroke">̄</g> diſauau<g ref="char:cmbAbbrStroke">̄</g>tage al <abbr>pl</abbr>, et tout ceo que eſt deuau<g ref="char:cmbAbbrStroke">̄</g>t audit<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>z aſſign<g ref="char:cmbAbbrStroke">̄</g> eſt de record<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>. Et par meſme le reaſon que il poit auer <hi>Scire facias</hi> pur mr<g ref="char:cmbAbbrStroke">̄</g>e pur q<g ref="char:cmbAbbrStroke">̄</g> il ne acco<g ref="char:cmbAbbrStroke">̄</g>ptera ꝑ m<g ref="char:cmbAbbrStroke">̄</g> le rea<expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan>, il auera vn <hi>capiaa ad computandum quod oe<g ref="char:cmbAbbrStroke">̄</g>s Iuſticiarii co<g ref="char:cmbAbbrStroke">̄</g>ceſſer<g ref="char:cmbAbbrStroke">̄</g>.</hi> Et puis toutz les <abbr>iuſtic</abbr> fuer<g ref="char:cmbAbbrStroke">̄</g> accord<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> q<g ref="char:cmbAbbrStroke">̄</g> le <abbr>pl</abbr> au<g ref="char:cmbAbbrStroke">̄</g>a vn <hi>Scire facias</hi> co<g ref="char:cmbAbbrStroke">̄</g>parna<g ref="char:cmbAbbrStroke">̄</g>t tout cel mar<g ref="char:cmbAbbrStroke">̄</g>, et a<g ref="char:abpre">p̄</g>z <abbr>c</abbr> il au<g ref="char:cmbAbbrStroke">̄</g>a <hi>habeas corpora</hi> et diſtr<g ref="char:cmbAbbrStroke">̄</g> enu<g ref="char:cmbAbbrStroke">̄</g>s les iur<g ref="char:cmbAbbrStroke">̄</g>. Et les parolx del <hi>ſcire facias,</hi> fuer<g ref="char:cmbAbbrStroke">̄</g> lies et fuer<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>quod Scire facias,</hi> &amp; le def. <hi>ad audiendu<g ref="char:cmbAbbrStroke">̄</g> iurata<g ref="char:cmbAbbrStroke">̄</g> et etiam iu<g ref="char:EOLhyphen"/>dicium.</hi> Et puis <hi>Vauiſour</hi> mr<g ref="char:cmbAbbrStroke">̄</g>e al court coment q<g ref="char:cmbAbbrStroke">̄</g> liſſue ſerra trie en aur<g ref="char:cmbAbbrStroke">̄</g> counte que lou <abbr>lacc</abbr> eſt port, <abbr>q<g ref="char:cmbAbbrStroke">̄</g>c</abbr> le paim<g ref="char:cmbAbbrStroke">̄</g>t eſt <abbr>all</abbr> en forein countie, et pur <abbr>c</abbr> eſt auoir en quel countie le <hi>Scire facias</hi> ſerra agarde &amp;c. <hi>Brian,</hi> ſi ho<g ref="char:cmbAbbrStroke">̄</g>e vou<g ref="char:EOLhyphen"/>che en vn <hi>Precipe quod Reddat,</hi> et puis le voucher pled<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> vn forein <abbr>pl</abbr> et ſo<g ref="char:cmbAbbrStroke">̄</g>t a iſſue ſi apres cel iſſue ſoit diſco<g ref="char:cmbAbbrStroke">̄</g>tinue ꝑ demiſe le Roy la le Reſom<g ref="char:cmbAbbrStroke">̄</g> ſerra ſue lou <abbr>lacc</abbr> eſt port, et iſſint icy qd<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> 
+               <hi>Catiſby</hi> 
+               <abbr>conc</abbr>, et diſoiet q<g ref="char:cmbAbbrStroke">̄</g> il aueroit le <abbr>proc</abbr> enuers le iure en lautre countie .s. <hi>habcas corpora</hi> vers lez iou<g ref="char:EOLhyphen"/>rours &amp;c.</p>
+            <p>
+               <hi>STarkey</hi> recorder de Lou<g ref="char:cmbAbbrStroke">̄</g>ders,<note place="margin">Accompt.</note> vient al come<g ref="char:cmbAbbrStroke">̄</g> ba<g ref="char:cmbAbbrStroke">̄</g>ke et dd<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>e auyſe de les <abbr>iuſtic</abbr> de in<g ref="char:cmbAbbrStroke">̄</g> le banke q<g ref="char:cmbAbbrStroke">̄</g> ſi <abbr>acc</abbr> de acco<g ref="char:cmbAbbrStroke">̄</g>pt ſoit ꝑt enu<g ref="char:cmbAbbrStroke">̄</g>s vn aut<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>, et co<g ref="char:cmbAbbrStroke">̄</g>ta en<g ref="char:EOLhyphen"/>uers luy co<g ref="char:cmbAbbrStroke">̄</g>e ſon receiuour et laur<g ref="char:cmbAbbrStroke">̄</g> vient &amp; dit q<g ref="char:cmbAbbrStroke">̄</g> le <abbr>pl</abbr> bailla a luy m<g ref="char:cmbAbbrStroke">̄</g> le choſe a <abbr>baill</abbr> ouſtre a vn eſtrau<g ref="char:cmbAbbrStroke">̄</g>ge a q<g ref="char:cmbAbbrStroke">̄</g> il ad <abbr>baill</abbr> et dd<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> iugeme<g ref="char:cmbAbbrStroke">̄</g>t ſi <abbr>acc</abbr> e<g ref="char:cmbAbbrStroke">̄</g>co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tre q<g ref="char:cmbAbbrStroke">̄</g>l venuſt eis le <abbr>pl</abbr>, et dit q<g ref="char:cmbAbbrStroke">̄</g> puis le dit liu<g ref="char:cmbAbbrStroke">̄</g>e et deuau<g ref="char:cmbAbbrStroke">̄</g>t le <abbr>baill</abbr> al eſtrau<g ref="char:cmbAbbrStroke">̄</g>g il co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>da a luy pur luy rebailler et dd<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> iugem<g ref="char:cmbAbbrStroke">̄</g>t, et pria cez dam<g ref="char:cmbAbbrStroke">̄</g> ſi cel re <abbr>plicac</abbr> ſoit bon ou nei? &amp;c. ¶ <hi>Choke,</hi> Moy ſe<g ref="char:cmbAbbrStroke">̄</g>ble q<g ref="char:cmbAbbrStroke">̄</g> il neſt bon, q<g ref="char:cmbAbbrStroke">̄</g>r qua<g ref="char:cmbAbbrStroke">̄</g>t le <abbr>pl</abbr> deliu<g ref="char:cmbAbbrStroke">̄</g> cel choſe pour deliu<g ref="char:cmbAbbrStroke">̄</g> a vn eſtrau<g ref="char:cmbAbbrStroke">̄</g>ge par cel deliu<g ref="char:cmbAbbrStroke">̄</g>e le ley entend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> q<g ref="char:cmbAbbrStroke">̄</g> le. ꝓ ꝑtie eſt a leſtra<g ref="char:cmbAbbrStroke">̄</g>ge meynteyna<g ref="char:cmbAbbrStroke">̄</g>t, et ſi le ꝓpertie ſoit a leſtrange adonquez il couient deliuere a luy nient obſt<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> le co<g ref="char:cmbAbbrStroke">̄</g>maundem<g ref="char:cmbAbbrStroke">̄</g>t, q<g ref="char:cmbAbbrStroke">̄</g>r ſil ad proparte il e<g ref="char:cmbAbbrStroke">̄</g> adonq<g ref="char:cmbAbbrStroke">̄</g>s chargeable a le ſtra<g ref="char:cmbAbbrStroke">̄</g>ge ꝑ voy <abbr>dacc</abbr>, et iſſint le co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>dem<g ref="char:cmbAbbrStroke">̄</g>t void<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>. ¶ <hi>Catiſby</hi> ſe<g ref="char:cmbAbbrStroke">̄</g>ble le co<g ref="char:cmbAbbrStroke">̄</g>tr<g ref="char:cmbAbbrStroke">̄</g>, q<g ref="char:cmbAbbrStroke">̄</g>r come<g ref="char:cmbAbbrStroke">̄</g>t q<g ref="char:cmbAbbrStroke">̄</g> il ad co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>de luy pur bailler cel choſe a leſtra<g ref="char:cmbAbbrStroke">̄</g>ge, ieo ſay bien q<g ref="char:cmbAbbrStroke">̄</g> par cel il eſt chargeable ouſt<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> a leſtrau<g ref="char:cmbAbbrStroke">̄</g>ge condi<g ref="char:EOLhyphen"/>cionalm<g ref="char:cmbAbbrStroke">̄</g>t .s. a le pleaſur de luy q<g ref="char:cmbAbbrStroke">̄</g> bailla, q<g ref="char:cmbAbbrStroke">̄</g>r ſil ne reſtremt q<g ref="char:cmbAbbrStroke">̄</g> commaunde m<g ref="char:cmbAbbrStroke">̄</g>t, do<g ref="char:cmbAbbrStroke">̄</g>q<g ref="char:cmbAbbrStroke">̄</g>s il eſt chargeable ou aut<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> m<g ref="char:cmbAbbrStroke">̄</g>t nei &amp;c. co<g ref="char:cmbAbbrStroke">̄</g>e ieo die a voꝰ preign<g ref="char:cmbAbbrStroke">̄</g>z mo<g ref="char:cmbAbbrStroke">̄</g> chiual et deliuer <abbr>c</abbr> a vn tiel pur chiuacher al Euerwike, nient ob. <abbr>c</abbr>. ieo poy reſtreyner mon co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>dem<g ref="char:cmbAbbrStroke">̄</g>t fait a voꝰ, q<g ref="char:cmbAbbrStroke">̄</g>r en cel poit voꝰ eſtes mon ſeruat et pur <abbr>c</abbr> ieo bn<g ref="char:cmbAbbrStroke">̄</g> poye voꝰ reſtrin<g ref="char:cmbAbbrStroke">̄</g> de <abbr>c</abbr> q<g ref="char:cmbAbbrStroke">̄</g> ieo aye voꝰ <abbr>co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>d</abbr> auau<g ref="char:cmbAbbrStroke">̄</g>t, q<g ref="char:cmbAbbrStroke">̄</g>r ieo poſe q<g ref="char:cmbAbbrStroke">̄</g> ieo deliu<g ref="char:cmbAbbrStroke">̄</g>e a voꝰ <abbr>ct<expan>
+                     <am>
+                        <g ref="char:aber"/>
+                     </am>
+                     <ex>er</ex>
+                  </expan>
+               </abbr> den<g ref="char:cmbAbbrStroke">̄</g>s q<g ref="char:cmbAbbrStroke">̄</g>ux ieo doy a vn aut<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> pur deliuer<g ref="char:cmbAbbrStroke">̄</g> a luy en cel cas ꝑauentur<g ref="char:cmbAbbrStroke">̄</g> deuau<g ref="char:cmbAbbrStroke">̄</g>t le liuer<g ref="char:cmbAbbrStroke">̄</g> ouſt<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> le det <abbr>rel</abbr> moy en cel cas ieo reſtreyn<g ref="char:cmbAbbrStroke">̄</g>a le co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>de m<g ref="char:cmbAbbrStroke">̄</g>t aut<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> m<g ref="char:cmbAbbrStroke">̄</g>t ieo ſerr<g ref="char:cmbAbbrStroke">̄</g> a grau<g ref="char:cmbAbbrStroke">̄</g>d miſchief iſſit en cel cas iſſit moy ſe<g ref="char:cmbAbbrStroke">̄</g>ble q<g ref="char:cmbAbbrStroke">̄</g> il fuit bon reſtr<g ref="char:cmbAbbrStroke">̄</g>t del co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>dem<g ref="char:cmbAbbrStroke">̄</g>t, et q<g ref="char:cmbAbbrStroke">̄</g> il fiſt tort pur deliu<g ref="char:cmbAbbrStroke">̄</g> ceo ouſt<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>. ¶ <hi>Bria<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> a meſme lentent, quant a ceo .s. que le. <hi>2.</hi> co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>dement reſtremt le primer, quar il eſt contrariant a le primer, mes moy ſemble que le plee en barr<g ref="char:cmbAbbrStroke">̄</g> neſt mye bone, come adire que le <abbr>pl</abbr> bailla a luy &amp;c.
+<pb facs="tcp:26037:3"/>pour baille ouſt<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> a que il ad bailla, quar ceo fuit bon plee en viſchargeds laccompt deuaunt laudit<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>z, et neſt en barr<g ref="char:cmbAbbrStroke">̄</g> daccompt, quar par <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> plee il ad confeſſe que il fuit accompt<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> par le reſceit en tiel maner, iſſint il ad co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>feſſe luy deſte accomptable et tant amount et eſt emplie que il doit rend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> accompt de meſme le choſe, et donques il vſt eſte reaſon que il doit auer eſte aiuge daccompt<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> ſur <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> plee et que il aueroit cel matter en diſcharge de ceſt accompte deuaunt lez auditors, iſſint moy ſemble le plee neſt pas bone, mes ſil vſt eſte bone do<g ref="char:cmbAbbrStroke">̄</g>ques le replicacion eſt bon. ¶ Et <hi>Star<g ref="char:EOLhyphen"/>key</hi> ne poet tarier et pour ceo <hi>Brian</hi> ne argue pluis. ¶ Et <hi>Catiſby</hi> dit que le plee eſt aſſez bone en barce, et iſſint fuit loppinion de pluſours au ters appre<g ref="char:cmbAbbrStroke">̄</g>tices. Et puis <hi>Catiſby,</hi> mitte vn diuerſite lou vn eſt accomp<g ref="char:EOLhyphen"/>table condicionalme<g ref="char:cmbAbbrStroke">̄</g>t al primers, et lou nemi: come en cel cas il neſt ac<g ref="char:EOLhyphen"/>comptable, ſinon pur le no<g ref="char:cmbAbbrStroke">̄</g> deliuere que ſil ad ceo deliuer il neſt accomp table, mes ſi ieo deliuere cerr<g ref="char:cmbAbbrStroke">̄</g> den<g ref="char:cmbAbbrStroke">̄</g>s a vn home pour delyuer a moy arere &amp;c. et puis ieo commaunda a luy pour deliuer lez denerz a auter, la co<g ref="char:EOLhyphen"/>ment que il deliuere ceux ouſtre, vncore la il couient daccompter et de monſtre celen diſcharge de ſon accompt et le cauſe eſt pour ceo que il fuit accomptable adepremes, et iſſint iey fuit il en cel cas ſinon condicio nalment .s. pour le non deliuere &amp;c. et iſſint le plee bone, quar &amp;c</p>
+            <p>
+               <hi>
+                  <seg rend="decorInit">C</seg>Ollowe</hi> vient al barre, et monſtra coment vn reſom<g ref="char:cmbAbbrStroke">̄</g> dun <hi>Cui in vita,</hi>
+               <note place="margin">Reſom<g ref="char:cmbAbbrStroke">̄</g> in Cui i<g ref="char:cmbAbbrStroke">̄</g> vita.</note> fuiſt ſue hors de cel banke, et le briefe fuit returnable a le. 15 iour de ſaint Crin<g ref="char:cmbAbbrStroke">̄</g>, et lez ſom<g ref="char:cmbAbbrStroke">̄</g> que ſom<g ref="char:cmbAbbrStroke">̄</g> le partie ſur le terre ſom<g ref="char:EOLhyphen"/>mona le partie. s le tenant deſte deuauut les <abbr>iuſtic</abbr> nr<g ref="char:cmbAbbrStroke">̄</g>e ſeigniour le roy a Weſtminſter al alle .xv. iour de corporis xp<g ref="char:cmbAbbrStroke">̄</g>i le q<g ref="char:cmbAbbrStroke">̄</g>l .xv. iour fuit vn iour apres le .iiij. iour del returne de le .xv. de ſaint Crin<g ref="char:cmbAbbrStroke">̄</g>. Et il dit que il fuit fait par fraude al entent que il mitteroit le r<g ref="char:cmbAbbrStroke">̄</g> de <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan>eſſon, quar ilz vſent ce<g ref="char:cmbAbbrStroke">̄</g> eſſone en plee de terre, et auxi en le ple parſonel le primer iour apres le returne &amp;c. ¶ <hi>Chok</hi> ſi ſoit iſſint vous poyez gagꝭ vr<g ref="char:cmbAbbrStroke">̄</g>e ley de le no<g ref="char:cmbAbbrStroke">̄</g> ſom<g ref="char:cmbAbbrStroke">̄</g>, q<g ref="char:cmbAbbrStroke">̄</g>r vous ne fuiſt ſom<g ref="char:cmbAbbrStroke">̄</g> accord<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> a le ley del terre. ¶ <hi>Catiſby</hi> ceo ne poet il par conſciens que il mitte cel matter en pais ſil fuit ſom<g ref="char:cmbAbbrStroke">̄</g> ou nemi ilz doient trouer pour lour conſcience que il fuit ſom<g ref="char:cmbAbbrStroke">̄</g> &amp;c. Et auxi home ne vnques gager<g ref="char:cmbAbbrStroke">̄</g> 
+               <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> ley de le ſom<g ref="char:cmbAbbrStroke">̄</g> en vn reſom<g ref="char:cmbAbbrStroke">̄</g> come il ſerr<g ref="char:cmbAbbrStroke">̄</g> ſur le original. ¶ <hi>Choke</hi> ceo ferra il auxi bn<g ref="char:cmbAbbrStroke">̄</g> come en vn reatachement le partie dira que il ne fuit reattache par .xv. iourz, et ceo vous voyez en noſtre liuerz. ¶ <hi>Catiſby</hi> en cel cas il ſerra trie par <abbr>lexaminac</abbr> del vicou<g ref="char:cmbAbbrStroke">̄</g>t q<g ref="char:cmbAbbrStroke">̄</g> attache &amp;c. Mes vous ne vnques veyes en voſtre lyuers que home gager<g ref="char:cmbAbbrStroke">̄</g> ſon ley de no<g ref="char:cmbAbbrStroke">̄</g> ſom<g ref="char:cmbAbbrStroke">̄</g> en vn reſom<g ref="char:cmbAbbrStroke">̄</g>. ¶ <hi>Choke et Brian, econtra, ideo quere</hi> de ceo &amp;c.</p>
+            <p>VN Appel fuit ſue ꝑ vn feme del mort <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> bar<g ref="char:cmbAbbrStroke">̄</g> 
+               <abbr>ꝓc</abbr> ent continne tan<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> al exige<g ref="char:cmbAbbrStroke">̄</g>t,<note place="margin">Appel. Reſom<g ref="char:cmbAbbrStroke">̄</g>.</note> &amp; pur <abbr>c</abbr> q<g ref="char:cmbAbbrStroke">̄</g> 
+               <abbr>aſc</abbr> de iez def. fuer<g ref="char:cmbAbbrStroke">̄</g> noſinez dauter cou<g ref="char:cmbAbbrStroke">̄</g>te q<g ref="char:cmbAbbrStroke">̄</g> lou lap pel fuit port pur <abbr>c</abbr> vn br<g ref="char:cmbAbbrStroke">̄</g>e .s. vn <hi>capias</hi> oue ꝓclam<g ref="char:cmbAbbrStroke">̄</g> fuit ſue en le co<g ref="char:cmbAbbrStroke">̄</g>te lou ilz fuer<g ref="char:cmbAbbrStroke">̄</g> noſm<g ref="char:cmbAbbrStroke">̄</g>z accord<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> al eſtatut q<g ref="char:cmbAbbrStroke">̄</g>l fuit return<g ref="char:cmbAbbrStroke">̄</g>, et pꝭ vn exigent fuit a gard<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> et deuant le returne del exigent le plee fuit diſcont<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> ꝑ demiſe le roy &amp; le <abbr>pl</abbr> ad ſue vn reattachement returnable al .xv. de. S. Trin<g ref="char:cmbAbbrStroke">̄</g>. et <abbr>c</abbr> mat<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>
+               <pb facs="tcp:26037:3" rendition="simple:additions"/>fuit mr<g ref="char:cmbAbbrStroke">̄</g>e ꝑ <hi>Keble</hi> lapre<g ref="char:cmbAbbrStroke">̄</g>tice, &amp; dd<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>e aduiſe del <abbr>Iuſtic</abbr> ſi entant que le <abbr>pl</abbr> ad ewe vn br<g ref="char:cmbAbbrStroke">̄</g>e oue <abbr>ꝓclamac</abbr> accord<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> al eſtatut en cel original, ſi a ore il voet auer vn exigent ſil couient dauer aut<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> breif ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <abbr>proclamac</abbr> ou nemye, et il ſemble que nemi en tau<g ref="char:cmbAbbrStroke">̄</g>t q<g ref="char:cmbAbbrStroke">̄</g> leſtatut eſt execute en cel poient en cel origi<g ref="char:EOLunhyphen"/>nal a vn foitz. ¶ <hi>Ienny</hi> iuſtice eſt vr<g ref="char:cmbAbbrStroke">̄</g>e reattachment general ouſpecial? ¶ <hi>Keble</hi> lez ꝑolx ſo<g ref="char:cmbAbbrStroke">̄</g>t <hi>quod ſit en eodem ſtatu quo fait tunc,</hi> mes il neſt reſite en le reattachement coment cel <abbr>ꝓc</abbr> fuit agarde &amp;c. ¶ <hi>Fairefax,</hi> donques eſt en maner forſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> vn general reattacheme<g ref="char:cmbAbbrStroke">̄</g>t, et donques <abbr>proc</abbr> de nouel fuit agarde &amp;c. ¶ <hi>Ienny,</hi> vous entend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> que ſi vn appel ou reattachment ſoitſue adonques le tenant ne poet varier de ſon plee, et iſſint en cheſcun nature de action, mes ſil ſoit general ado<g ref="char:cmbAbbrStroke">̄</g>ques le ley eſt contrarie, et pur ceo ſi voſtre reattachement ſoit eſpecial ado<g ref="char:cmbAbbrStroke">̄</g>q<g ref="char:cmbAbbrStroke">̄</g>s il neſt neceſſarie dauer le br<g ref="char:cmbAbbrStroke">̄</g>e one ꝓclamacio<g ref="char:cmbAbbrStroke">̄</g>, et ſi ſo<g ref="char:cmbAbbrStroke">̄</g>t gener<g ref="char:cmbAbbrStroke">̄</g> do<g ref="char:cmbAbbrStroke">̄</g>q<g ref="char:cmbAbbrStroke">̄</g>s eſt neceſſar<g ref="char:cmbAbbrStroke">̄</g>, iſſint a viſes voꝰ bie<g ref="char:cmbAbbrStroke">̄</g>.</p>
+            <p>
+               <hi>BRigges</hi> vient al barr<g ref="char:cmbAbbrStroke">̄</g> en le comen banke et mr<g ref="char:cmbAbbrStroke">̄</g>a co<g ref="char:cmbAbbrStroke">̄</g>ent vn I. S. vſt ſue cy vn br<g ref="char:cmbAbbrStroke">̄</g>e de Tn<g ref="char:cmbAbbrStroke">̄</g>s deſez bn<g ref="char:cmbAbbrStroke">̄</g>z emꝑtez, s. de. <hi>2.</hi> cofers,<note place="margin">Treſpas,</note> et aut<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>z bn<g ref="char:cmbAbbrStroke">̄</g>s &amp;c. encontre q<g ref="char:cmbAbbrStroke">̄</g>l vient le def. ꝑ. <hi>Vauiſour,</hi> qua<g ref="char:cmbAbbrStroke">̄</g>t a tout forſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> le coffers rie<g ref="char:cmbAbbrStroke">̄</g> culpable, &amp; qua<g ref="char:cmbAbbrStroke">̄</g>ta eux il diſoit q<g ref="char:cmbAbbrStroke">̄</g> 
+               <abbr>acc</abbr> ne doit, &amp;c q<g ref="char:cmbAbbrStroke">̄</g>r il dit q<g ref="char:cmbAbbrStroke">̄</g> longe te<g ref="char:cmbAbbrStroke">̄</g>pz de uau<g ref="char:cmbAbbrStroke">̄</g>t q<g ref="char:cmbAbbrStroke">̄</g> le <abbr>pl</abbr> rienz auo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> en m<g ref="char:cmbAbbrStroke">̄</g> lez bie<g ref="char:cmbAbbrStroke">̄</g>z q<g ref="char:cmbAbbrStroke">̄</g> vn w. S. freer<g ref="char:cmbAbbrStroke">̄</g> del <abbr>pl</abbr> fuit poſſ. de lez ditz cofers come de ſes propres bienz, et iſſint poſſ. dona a Dale en le counte de Midd<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> m<g ref="char:cmbAbbrStroke">̄</g> lez coffers al def. ilz eſteant en poſſ. de ceſti q<g ref="char:cmbAbbrStroke">̄</g> dona. Et puis le dit w. S. fiſt ſon <abbr>exec</abbr> le <abbr>pl</abbr>, et moruſt ꝑ force de q<g ref="char:cmbAbbrStroke">̄</g>l les coffers viend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> en le poſſ. del <abbr>pl</abbr>, et le def. eux priſt come bien a luy liſt et dd<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>e iuge ment &amp;c. ¶ <hi>Brigges,</hi> il ſe<g ref="char:cmbAbbrStroke">̄</g>ble q<g ref="char:cmbAbbrStroke">̄</g> cel <abbr>pl</abbr> neſt p<g ref="char:cmbAbbrStroke">̄</g> bon, q<g ref="char:cmbAbbrStroke">̄</g>r le defend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> ad allegge q<g ref="char:cmbAbbrStroke">̄</g> long te<g ref="char:cmbAbbrStroke">̄</g>ps deuaunt que le <abbr>pl</abbr> riens auoit le proꝑtie fuit a luy que dona, et nad allegge lou il auoit le proꝑtie .s. en q<g ref="char:cmbAbbrStroke">̄</g>l lieu, iſſint ſi vn iſſue fuit ioyne de le propertie il ne poet eſte troue, quar nul lieu eſt <abbr>all</abbr> iſſint que len<g ref="char:EOLhyphen"/>queſt poet eſte priſe, et come moy ſemble bone iſſue poet eſte priſe ſur le properite co<g ref="char:cmbAbbrStroke">̄</g>e adire que le <abbr>pl</abbr> fuit poſſ. come de ſes proper biens, et le def. eu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> priſt, ſau<g ref="char:cmbAbbrStroke">̄</g>s ceo q<g ref="char:cmbAbbrStroke">̄</g> le proꝑtie eſt a luy q<g ref="char:cmbAbbrStroke">̄</g> dona &amp;c. et iſſint bone iſſue poet eſte priſe ſur le proꝑtie. Et pur ceo moy ſemble q<g ref="char:cmbAbbrStroke">̄</g>il doit mr<g ref="char:cmbAbbrStroke">̄</g>e en q<g ref="char:cmbAbbrStroke">̄</g>l lieu il a ue ra le proꝑte &amp;c. ꝑ cauſe de trial. ¶ <hi>Brian,</hi> le plee eſt aſſes bone, q<g ref="char:cmbAbbrStroke">̄</g>r a ore quant il giſt le proꝑte en luy et ne dit en q<g ref="char:cmbAbbrStroke">̄</g>l lieu a touts foits il ſerr<g ref="char:cmbAbbrStroke">̄</g> ente<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>due la lou <abbr>lacc</abbr> eſt ꝑt, et iſſint en <abbr>cheſc</abbr> cas ſi les ꝑties ſont a iſſue il ſerra trie la lou <abbr>lacc</abbr> eſt ꝑte, ſinon q<g ref="char:cmbAbbrStroke">̄</g> auter lieu ſoit allegge co<g ref="char:cmbAbbrStroke">̄</g>e eſt en <abbr>acc</abbr> de det ou Tn<g ref="char:cmbAbbrStroke">̄</g>s le def. pled<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> reles de touts actions parſonel ou vn ar bit<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> me<g ref="char:cmbAbbrStroke">̄</g>t, ou aſcun autre tiel diſcharge ſil ne allegge en cert<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> lou ilz fuer<g ref="char:cmbAbbrStroke">̄</g> faitz, il ſerra entend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> ꝑ le ley lou <abbr>lacc</abbr> eſt porte, &amp; iſſint de ſurrend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> de t<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>re &amp;c. Et m<g ref="char:cmbAbbrStroke">̄</g> le ley ſerra en <abbr>pl</abbr> de t<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>re ſi le tena<g ref="char:cmbAbbrStroke">̄</g>t pled<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> 
+               <abbr>rel</abbr> ou <abbr>confirmac</abbr> &amp;c. ilz ſont entend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> ſur <abbr>l</abbr> t<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>re et la ſerr<g ref="char:cmbAbbrStroke">̄</g> trie ſi aut<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> lieu ne ſoit <abbr>all</abbr>, et iſſint en ceſt cas. Et iſſint le plee bone, <hi>et cum hoc concordat. Choke</hi> et dit, q<g ref="char:cmbAbbrStroke">̄</g> ſi ho<g ref="char:cmbAbbrStroke">̄</g>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ad le ꝓparte dun choſe en vn lieu, il ad le propartie en tout le mounde, q<g ref="char:cmbAbbrStroke">̄</g>r home ne poet auer le ꝓpartie en vn lieu cert<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>, mez en <abbr>cheſc</abbr> lieu: et donques quatil dit q<g ref="char:cmbAbbrStroke">̄</g> w. S. don<g ref="char:cmbAbbrStroke">̄</g> a tiel lieu do<g ref="char:cmbAbbrStroke">̄</g>q<g ref="char:cmbAbbrStroke">̄</g>s il au<g ref="char:cmbAbbrStroke">̄</g>a ꝓpartie la et il bn<g ref="char:cmbAbbrStroke">̄</g> poet ee<g ref="char:cmbAbbrStroke">̄</g> trie la, et <abbr>c</abbr> e<g ref="char:cmbAbbrStroke">̄</g> lou <abbr>lacc</abbr>
+               <pb facs="tcp:26037:4"/>eſt ꝑt. Et iſſint fuit loppinio<g ref="char:cmbAbbrStroke">̄</g> de toutz les <abbr>iuſtic</abbr>. Et puis <hi>Brigges</hi> dit que il ne <abbr>voill</abbr> et auoir vn ieo fail, et dit al <abbr>pl</abbr> pled<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> ꝑ le man<g ref="char:cmbAbbrStroke">̄</g> &amp;c. <hi>Vaui<expan>
+                     <am>
+                        <g ref="char:abser"/>
+                     </am>
+                     <ex>ser</ex>
+                  </expan>,</hi> et enta<g ref="char:cmbAbbrStroke">̄</g>t que noꝰ &amp;c. <abbr>ddoꝰ</abbr> &amp;c. Et puis aut<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> iour. <hi>Brig.</hi> vient et wayue le demurr<g ref="char:cmbAbbrStroke">̄</g> et dit q<g ref="char:cmbAbbrStroke">̄</g> bn<g ref="char:cmbAbbrStroke">̄</g> &amp; verite eſt q<g ref="char:cmbAbbrStroke">̄</g> le proꝑte fuit a le dit w. S. mes il dit q<g ref="char:cmbAbbrStroke">̄</g> longe te<g ref="char:cmbAbbrStroke">̄</g>ps deuant q<g ref="char:cmbAbbrStroke">̄</g> il dona le def. il dona a le <abbr>pl</abbr> donques en ſon poſſ. et pur il fiſt le <abbr>pl</abbr> ſon execut<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> et murruſt. Et puis le def. vient et p<g ref="char:cmbAbbrStroke">̄</g>ſt eux hors de ſon poſſ le q<g ref="char:cmbAbbrStroke">̄</g>l mat<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> &amp;c. Et donq<g ref="char:cmbAbbrStroke">̄</g>s <hi>Brig.</hi> dit a le court q<g ref="char:cmbAbbrStroke">̄</g> ore il neſt en <abbr>aſc</abbr> ieoꝑdy dun ieo fail nient ob. q<g ref="char:cmbAbbrStroke">̄</g> le def. doit auoir mr<g ref="char:cmbAbbrStroke">̄</g>e en ſon barr<g ref="char:cmbAbbrStroke">̄</g> lou le propertie fuit a luy que dona, q<g ref="char:cmbAbbrStroke">̄</g>r le cauſe pour q<g ref="char:cmbAbbrStroke">̄</g>l il doit auoir eſte monſtre fuit pur ceo que le <abbr>pl</abbr> poit au<g ref="char:cmbAbbrStroke">̄</g> 
+               <g ref="char:abpre">p̄</g>ndre vn iſſue ſur le proꝑte et adonques ilz ne ſauer de q<g ref="char:cmbAbbrStroke">̄</g>llieu le venu viend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>, mes ore <abbr>c</abbr> e<g ref="char:cmbAbbrStroke">̄</g> co<g ref="char:cmbAbbrStroke">̄</g>feſſe de noꝰ q<g ref="char:cmbAbbrStroke">̄</g>il auoit le properie en le maner. &amp;c. iſſint le cauſe del monſtrans eſt determine entaunt q<g ref="char:cmbAbbrStroke">̄</g> ore nul iſſue poet eſte ioyn ſur <abbr>c</abbr> come en cas q<g ref="char:cmbAbbrStroke">̄</g> en vn formed<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> port par vn deinz age ſi le r<g ref="char:cmbAbbrStroke">̄</g> pled<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> le garr<g ref="char:cmbAbbrStroke">̄</g> 
+               <abbr>daunc</abbr> le dd<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>e en barr<g ref="char:cmbAbbrStroke">̄</g> oue vn aſſez ore le dd<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> poet de mr<g ref="char:cmbAbbrStroke">̄</g>e en ley pur <abbr>c</abbr> que il ne mr<g ref="char:cmbAbbrStroke">̄</g>a en q<g ref="char:cmbAbbrStroke">̄</g>l lieu laſſes eſt, mes ſil refuce <abbr>c</abbr> et con<g ref="char:EOLunhyphen"/>feſſe laſſes, et dit q<g ref="char:cmbAbbrStroke">̄</g> puis le diſce<g ref="char:cmbAbbrStroke">̄</g>t vn eſtra<g ref="char:cmbAbbrStroke">̄</g>ge ad recouer enuers luy ꝑ vn eign <abbr>titl</abbr>, et ſuit <abbr>exec</abbr> et ceſt record<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> 
+               <abbr>ctiſie</abbr> encont<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> le def. <abbr>c</abbr> ne<g ref="char:cmbAbbrStroke">̄</g> ieo fail en tau<g ref="char:cmbAbbrStroke">̄</g>t q<g ref="char:cmbAbbrStroke">̄</g> le aſſez fuit co<g ref="char:cmbAbbrStroke">̄</g>feſſe &amp; a void<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>, et iſſint en le cas al barr<g ref="char:cmbAbbrStroke">̄</g>, <hi>quod oe<g ref="char:cmbAbbrStroke">̄</g>s iuſtic, co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ceſſer<g ref="char:cmbAbbrStroke">̄</g>,</hi> Et puis <hi>Vauiſour</hi> dit q<g ref="char:cmbAbbrStroke">̄</g> il ne dona a le <abbr>pl</abbr> priſt <hi>et alii econtra</hi> &amp;c.</p>
+            <p>EN vn <hi>Pr<g ref="char:cmbAbbrStroke">̄</g>e quod Reddat,</hi>
+               <note place="margin">Pr<g ref="char:cmbAbbrStroke">̄</g>e quod Reddat.</note> let<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> vouche agarr<g ref="char:cmbAbbrStroke">̄</g> vn q<g ref="char:cmbAbbrStroke">̄</g> vie<g ref="char:cmbAbbrStroke">̄</g>t eins par <abbr>proc</abbr> et pled<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> oue le dd<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> et fuer<g ref="char:cmbAbbrStroke">̄</g> a iſſue. Et puis le <abbr>pl</abbr> fuit diſco<g ref="char:cmbAbbrStroke">̄</g>tinue ꝑ le demiſe le roy, etle queſtion e<g ref="char:cmbAbbrStroke">̄</g> ſi le reſom<g ref="char:cmbAbbrStroke">̄</g> ſerr<g ref="char:cmbAbbrStroke">̄</g> ag. enu<g ref="char:cmbAbbrStroke">̄</g>s le r<g ref="char:cmbAbbrStroke">̄</g> ſole ou enuers le r<g ref="char:cmbAbbrStroke">̄</g> et le vouche ou enuerz le vouche tm<g ref="char:cmbAbbrStroke">̄</g>. <hi>Suliarde</hi> dit q<g ref="char:cmbAbbrStroke">̄</g> il ſe<g ref="char:cmbAbbrStroke">̄</g>ble q<g ref="char:cmbAbbrStroke">̄</g> le reſom<g ref="char:cmbAbbrStroke">̄</g> ſerr<g ref="char:cmbAbbrStroke">̄</g> vers le r<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>ad audiendum iudicium,</hi> q<g ref="char:cmbAbbrStroke">̄</g>r le iugement ſerr<g ref="char:cmbAbbrStroke">̄</g> enuers luy et le re<g ref="char:EOLhyphen"/>ſom<g ref="char:cmbAbbrStroke">̄</g> ſerr<g ref="char:cmbAbbrStroke">̄</g> enu<g ref="char:cmbAbbrStroke">̄</g>s le vouche, et <abbr>c</abbr> 
+               <hi>ad audiendumiurat,</hi> iſſint en man<g ref="char:cmbAbbrStroke">̄</g> ſeu<g ref="char:cmbAbbrStroke">̄</g>al re<g ref="char:EOLhyphen"/>ſom<g ref="char:cmbAbbrStroke">̄</g>. ¶ <hi>Brian</hi> moy ſe<g ref="char:cmbAbbrStroke">̄</g>ble que voꝰ <g ref="char:abpre">p̄</g>gn<g ref="char:cmbAbbrStroke">̄</g>z bon voy et vn cert<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> voy, et ſil ſoit au r<g ref="char:cmbAbbrStroke">̄</g> il eſt err<g ref="char:cmbAbbrStroke">̄</g> co<g ref="char:cmbAbbrStroke">̄</g>e moy ſe<g ref="char:cmbAbbrStroke">̄</g>ble ¶ <hi>Choke,</hi> moy ſe<g ref="char:cmbAbbrStroke">̄</g>ble a le cont<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> et dit q<g ref="char:cmbAbbrStroke">̄</g> 
+               <abbr>c</abbr> q<g ref="char:cmbAbbrStroke">̄</g> e<g ref="char:cmbAbbrStroke">̄</g> vers le t<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> eſt ſurpluſage et voide q<g ref="char:cmbAbbrStroke">̄</g>r il ſe<g ref="char:cmbAbbrStroke">̄</g>ble q<g ref="char:cmbAbbrStroke">̄</g> eſt bon e<g ref="char:cmbAbbrStroke">̄</g>uers le vouche tm<g ref="char:cmbAbbrStroke">̄</g>. ¶ <hi>Vaui<expan>
+                     <am>
+                        <g ref="char:abser"/>
+                     </am>
+                     <ex>ser</ex>
+                  </expan>
+               </hi> 
+               <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> ieo ſue de cou<g ref="char:cmbAbbrStroke">̄</g>ſel del <abbr>pl</abbr>, mes moy ſe<g ref="char:cmbAbbrStroke">̄</g>ble q<g ref="char:cmbAbbrStroke">̄</g> il ſerr<g ref="char:cmbAbbrStroke">̄</g> agard<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> d<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>s le vouche ſole et cel <abbr>recitl</abbr> enu<g ref="char:cmbAbbrStroke">̄</g>s le r<g ref="char:cmbAbbrStroke">̄</g> ferr<g ref="char:cmbAbbrStroke">̄</g> 
+               <abbr>c</abbr> err<g ref="char:cmbAbbrStroke">̄</g>. Et <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> ieo ay vieu en le co<g ref="char:cmbAbbrStroke">̄</g>en ba<g ref="char:cmbAbbrStroke">̄</g>ke en iourz paſſes, q<g ref="char:cmbAbbrStroke">̄</g> lou vn br<g ref="char:cmbAbbrStroke">̄</g>e de faux iugem<g ref="char:cmbAbbrStroke">̄</g>t fuit ꝑt enuers le ſeneſchal du<g ref="char:cmbAbbrStroke">̄</g> court bar<g ref="char:cmbAbbrStroke">̄</g>, et enuers le ſut<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>z q<g ref="char:cmbAbbrStroke">̄</g> pur <abbr>c</abbr> q<g ref="char:cmbAbbrStroke">̄</g> le ſeneſchal fuit noſm<g ref="char:cmbAbbrStroke">̄</g> en le br<g ref="char:cmbAbbrStroke">̄</g>e il fuit aba<g ref="char:EOLhyphen"/>tꝰ pur <abbr>c</abbr> q<g ref="char:cmbAbbrStroke">̄</g>il ne doit auoier noſm<g ref="char:cmbAbbrStroke">̄</g> en le br<g ref="char:cmbAbbrStroke">̄</g>e, et a m<g ref="char:cmbAbbrStroke">̄</g> le temps fuit tenus que ſi fin ſoit leue en le comen banke cora<g ref="char:cmbAbbrStroke">̄</g> T. <hi>Brian</hi> milite, et aut<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>s de ſez co<g ref="char:cmbAbbrStroke">̄</g>pa nio<g ref="char:cmbAbbrStroke">̄</g>s et noſm<g ref="char:cmbAbbrStroke">̄</g> lour noſm<g ref="char:cmbAbbrStroke">̄</g>z en cert<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> co<g ref="char:cmbAbbrStroke">̄</g>e R. <hi>Chok</hi> et w. <hi>Catiſby</hi> &amp;c. ſi vn. <hi>2.</hi> ne ſoit iuſtice de m<g ref="char:cmbAbbrStroke">̄</g> le ba<g ref="char:cmbAbbrStroke">̄</g>k come<g ref="char:cmbAbbrStroke">̄</g>t q<g ref="char:cmbAbbrStroke">̄</g> le remena<g ref="char:cmbAbbrStroke">̄</g>t ſont q<g ref="char:cmbAbbrStroke">̄</g> pour ceo il eſt err<g ref="char:cmbAbbrStroke">̄</g>, <hi>quod Bria<g ref="char:cmbAbbrStroke">̄</g> et Catiſby</hi> negauer<g ref="char:cmbAbbrStroke">̄</g> &amp;c. ¶ <hi>Bria<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> dit q<g ref="char:cmbAbbrStroke">̄</g> en cel cas icy vn iugem<g ref="char:cmbAbbrStroke">̄</g>t e<g ref="char:cmbAbbrStroke">̄</g> pur ce<g ref="char:cmbAbbrStroke">̄</g> done enu<g ref="char:cmbAbbrStroke">̄</g>s le r<g ref="char:cmbAbbrStroke">̄</g> ꝑauentur<g ref="char:cmbAbbrStroke">̄</g> .s. ſi liſſue ſoit trie enu<g ref="char:cmbAbbrStroke">̄</g>s le vouche, et aur<g ref="char:cmbAbbrStroke">̄</g> iuge<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>t pur le r<g ref="char:cmbAbbrStroke">̄</g>, et <abbr>c</abbr> eſt pur au<g ref="char:cmbAbbrStroke">̄</g> en value. Et pur <abbr>c</abbr> il e<g ref="char:cmbAbbrStroke">̄</g> neceſſar<g ref="char:cmbAbbrStroke">̄</g> q<g ref="char:cmbAbbrStroke">̄</g> le reſom<g ref="char:cmbAbbrStroke">̄</g> ſoit agard<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> enu<g ref="char:cmbAbbrStroke">̄</g>s le r<g ref="char:cmbAbbrStroke">̄</g>, et auxi enu<g ref="char:cmbAbbrStroke">̄</g>s le vouche. Et <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> come<g ref="char:cmbAbbrStroke">̄</g>t <abbr>voill</abbr> voꝰ dir<g ref="char:cmbAbbrStroke">̄</g> ſi le br<g ref="char:cmbAbbrStroke">̄</g>e de detenue ſoit port, &amp; le def. pria garniſhme<g ref="char:cmbAbbrStroke">̄</g>t, &amp; <abbr>l</abbr> garniſh vie<g ref="char:cmbAbbrStroke">̄</g>t &amp; pled<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> oue le <abbr>pl</abbr> &amp; ſont a iſſue, et pꝭ le <abbr>pl</abbr> e<g ref="char:cmbAbbrStroke">̄</g> diſconr<g ref="char:cmbAbbrStroke">̄</g> ꝑ demiſe le roy ne ſert<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> en cel cas re<g ref="char:EOLhyphen"/>ſom<g ref="char:cmbAbbrStroke">̄</g> enu<g ref="char:cmbAbbrStroke">̄</g>s le def. et auxi enu<g ref="char:cmbAbbrStroke">̄</g>s le garniſh, q<g ref="char:cmbAbbrStroke">̄</g>ſi d<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>ic, et le cauſe e<g ref="char:cmbAbbrStroke">̄</g> pur <abbr>c</abbr> le iuge
+<pb facs="tcp:26037:4" rendition="simple:additions"/>ment ſerra enuers le defendaunt de le choſe demaunde enuers quicun<g ref="char:EOLhyphen"/>que que liſſue ſoit trie, et enuers le garnyſſhe damage ſerra agard<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> ſi liſ<g ref="char:EOLhyphen"/>ſue ſoit trie enuers luy, et il auera damage vers le pleintife ſi ſont troue pour luy &amp;c. iſſint icy. &amp;c. ¶ <hi>Catiſby,</hi> coment que ſoit ley que le Reſom<g ref="char:cmbAbbrStroke">̄</g> ne doit aler enuers le vouche tm<g ref="char:cmbAbbrStroke">̄</g>, vncore il neſt errour, quar il neſt forſque vn Iudicial briefe, et ſerra amend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> ſi meiſter ſoit, mes pour ceo que les Iuſtices fueront en diuers opinions il fuit aiourne &amp;c. Et fuit dit par diuers apprenticez la preſent a le barr<g ref="char:cmbAbbrStroke">̄</g> que eſt aiuge en noſtre liuerz, que ſi le tenaunt en <hi>Precipe quod Reddat</hi> fuit def. &amp;c. et vn eſt reſceu et plede oue le demaunde, et puis le plee eſt diſcontinue come eſt icy que la le Re ſom<g ref="char:cmbAbbrStroke">̄</g> ſerra tauntſolement vers le tenaunt par reſceit <hi>tantum,</hi> et iſſint ilz ſemble il ſerra enuers le vouche <hi>tantum ideo quere,</hi> quar moy ſemble di<g ref="char:EOLhyphen"/>uerſite par entre les deux darrem caſes, quar en lun cas le iudgement ſerra vers le tenant, &amp; en lautre enuers le tenaunt, et auxi enuers le te<g ref="char:EOLhyphen"/>naunt par le reſceit &amp;c.</p>
+            <p>
+               <seg rend="decorInit">N</seg>Ota que fuit dit en meſine le plee que apres que le tenau<g ref="char:cmbAbbrStroke">̄</g>t en vn <hi>Precipe quod Reddat</hi> ad vouche,<note place="margin">Nota.</note> et le vouche vient eins que a<g ref="char:abpre">p̄</g>s neſt aſcun continuaunce vers le tenant quar &amp;c.</p>
+            <p>VN briefe ſur leſtatut de Richard<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>,<note place="margin">Brief ſur le ſtatut de R</note> fuit porte enuers. A. B. et C. B. vient et pled<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> ne rien coulp<g ref="char:cmbAbbrStroke">̄</g> priſt et A. et C. lez def. vient eins par <hi>Towneſende,</hi> et diont que ceſt accio<g ref="char:cmbAbbrStroke">̄</g> ne doit il meynten<g ref="char:cmbAbbrStroke">̄</g>, quar ilz di<g ref="char:EOLhyphen"/>out que vn B. fuit ſeiſie de meſme lez terre en ſon demeſne come de fee longe temps deuau<g ref="char:cmbAbbrStroke">̄</g>t que le pleyntif rienz auoit &amp;c. Et iſſint ſeiſi ienfeft<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>a le def. par force de quel ilz fueront ent ſeiſi en lour demeſne come de fee et le pleintif en laymant ems par colour dun lees par meſme B. lou ri<g ref="char:EOLhyphen"/>euz paſſa &amp;c. entre ſur que lez defend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>. reentre &amp;c. ¶ <hi>Brigges</hi> pour le plee dit que meſme B. que eſt noſme en le briefe, et meſme B. par que ilz ont ſuppoſe le feoffement eſt vn meſme parſon et nemye diuers et a cel plee plede par le maner &amp;c. ¶ <hi>Brian</hi> pour que neſt ceſt plee aſſetz bone que le def. ad pled<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>? <hi>Briggis,</hi> ſir moy ſemble pour ceo que ilz ne ont fait title forſ<g ref="char:EOLhyphen"/>que de lour poſſeſſion demeſne, quar ilz ont ſuppoſe que vn deux que eſt ſuppoſe eſte vn dez treſpaſours .s. vn dez def. ad fait le feoffement, iſſint que ſlad conueye ſon title de ceo quel meſme fuit ſeiſie de luy meſme. ¶ <hi>Catiſby</hi> le plee eſt aſſetz bone, quar ſil vſt dit que meſme B. fuit ſeiſie et enfeoffa lez def. et iſſint fueront ilz ſeiſiez tanque par le <abbr>pl</abbr> enclaym<g ref="char:cmbAbbrStroke">̄</g> e<g ref="char:EOLhyphen"/>inz par colour dun leez &amp;c. enr<g ref="char:cmbAbbrStroke">̄</g> et lez def. entre ceo eſt bone plee, quar ils ont monſtre a eux title a le terre et vn diſſeiſm puis par le pleintife et vn reenter. &amp;c. Et vous ne voille dedire ſil vſt dit que longe te<g ref="char:cmbAbbrStroke">̄</g>ps deuaunt que le pleyntife riens auoit que meſme ceſtie Bancke fuit ſeiſie et enfeoffa les defait. &amp;c. et vn ree<g ref="char:cmbAbbrStroke">̄</g>r<g ref="char:cmbAbbrStroke">̄</g> arere a ore il eſt bone <abbr>pl</abbr>, et nuxi
+<pb facs="tcp:26037:5" rendition="simple:additions"/>bon eſt lauter, q<g ref="char:cmbAbbrStroke">̄</g>r il ſerr<g ref="char:cmbAbbrStroke">̄</g> entend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> q<g ref="char:cmbAbbrStroke">̄</g> le feoffeme<g ref="char:cmbAbbrStroke">̄</g>t fuit fait deua<g ref="char:cmbAbbrStroke">̄</g>t q<g ref="char:cmbAbbrStroke">̄</g> le <abbr>pl</abbr> riens auoit tanque le contrarie ſoit monſtre, et iſſint le plee fuit tenus bon. Et puis ¶ <hi>Towneſende,</hi> dit que ſon plee eſt q<g ref="char:cmbAbbrStroke">̄</g> longe temps deuaunt que le <abbr>pl</abbr> riens auoit que B. fuit ſeiſi &amp;c. Et le court dit que il fuiſt aſſetz bn<g ref="char:cmbAbbrStroke">̄</g> en auter maner &amp;c.</p>
+            <p>
+               <hi>DAuers</hi> apprentice vient en Banke le Roy,<note place="margin">Treſpas.</note> et mr<g ref="char:cmbAbbrStroke">̄</g>e co<g ref="char:cmbAbbrStroke">̄</g>ent vn ad port vn brief de Tn<g ref="char:cmbAbbrStroke">̄</g>s, <hi>quare clauſum fregit.</hi> &amp;c. Et le defendaunt vient et dit q<g ref="char:cmbAbbrStroke">̄</g> action <hi>non</hi> quar il dit que le lieu &amp;c. eſt vn cloſe conteygnant en luy meſme vn acre de terre, et il iuſtifie lentre par cauſe dun leez pur terme des anz fait par le pleintif, et a ceo dioꝰ nous que le lieu lou &amp;c. noꝰ ſuppoſomus le Creſpas eſt vn cloſe <abbr>appell</abbr> Buckes croft, le q<g ref="char:cmbAbbrStroke">̄</g>l conteign<g ref="char:cmbAbbrStroke">̄</g> en luy meſme vn acre et vn rode, et entaunt quil ne reſponde rieus a <abbr>c</abbr> nons demaundemus iugeme<g ref="char:cmbAbbrStroke">̄</g>t, et priomꝰ noſtre damages et le def. fuit charge de reſpondre a ceo pour ceo que il ad done a luy vn noſme &amp;c.</p>
+            <p>
+               <seg rend="decorInit">A</seg>Sſiſe de rent,<note place="margin">aſſiſede re<g ref="char:cmbAbbrStroke">̄</g>t</note> fuiſt port ꝑ vn Iohn<g ref="char:cmbAbbrStroke">̄</g> Worſeley, deane de la cha<g ref="char:EOLhyphen"/>piter de Poules, et par le chapiter enuers vn Alice Gloſſ et le Deane et le chapiter fierunt lour pleynt de .xxiij. <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan>. iiij. <abbr>d</abbr>. de re<g ref="char:cmbAbbrStroke">̄</g>t iſſint hors de trois acres de terre par que <hi>Sulyard.</hi> vient pour l<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d fendaunt que appiert par atturney et reſponde come tenaunt del francktenement, et dit que quant a aſcun rent iſſaunt hors de vn des a<g ref="char:EOLhyphen"/>cres il demaunde iugement de breif, quar il dit quil tient meſme le acre <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ointment oueſque vn I. at. Style, le quil eſt en plem vie del ſeoffeme<g ref="char:cmbAbbrStroke">̄</g>t dun R. D. ment noſme en le briefe, et de maunde iugement de briefe, et qua<g ref="char:cmbAbbrStroke">̄</g>t a ceo ſi troue ne ſoit, il dit quil ne fiſt aſcu<g ref="char:cmbAbbrStroke">̄</g> tort ne aſcu<g ref="char:cmbAbbrStroke">̄</g> diſſeiſi, &amp; qua<g ref="char:cmbAbbrStroke">̄</g>t a vn autre acre dez ditz acrez il dit q<g ref="char:cmbAbbrStroke">̄</g> nad rie<g ref="char:cmbAbbrStroke">̄</g>z en m<g ref="char:cmbAbbrStroke">̄</g> le terre iour &amp;c. ne vn ques puis &amp;c. Et ſi troue ne ſoit nul tort nul diſſm<g ref="char:cmbAbbrStroke">̄</g>. Et quant a aſcun re<g ref="char:cmbAbbrStroke">̄</g>t iſſaunt hors del terre il dit q<g ref="char:cmbAbbrStroke">̄</g> aſſiſe ne doit eſtr<g ref="char:cmbAbbrStroke">̄</g>, quar il dit que vn wyllia<g ref="char:cmbAbbrStroke">̄</g> Saye, predeceſſour del <abbr>pl</abbr> deane de m<g ref="char:cmbAbbrStroke">̄</g> le chapiter, vie<g ref="char:cmbAbbrStroke">̄</g>t en le noſm<g ref="char:cmbAbbrStroke">̄</g> de m<g ref="char:cmbAbbrStroke">̄</g> le deane et chapiter al felt de ſeint Michel et demaunde le dit rent dun Iohn<g ref="char:cmbAbbrStroke">̄</g> Maleon, adonques eſteant tenant et il paya: &amp; puis al feſt de S. Michel adonques prochyn enſuaunt, meſme ceſty deane vient come de uaunt, et demaunda meſme le rent et le dit dean voille auer diſtreigne et le dit. I. M. fiſt reſcous. Et puis le dit wylliam Say moruſt, eſ le dit Iohn<g ref="char:cmbAbbrStroke">̄</g> worſely, fuit eſl ieu deane ſaunz <abbr>c</abbr> q<g ref="char:cmbAbbrStroke">̄</g> le dit william Saye ou le dit Iohn<g ref="char:cmbAbbrStroke">̄</g> Worſely, ou aſcun autres ſucceſſours de le dit Wylliam Saye, m<g ref="char:cmbAbbrStroke">̄</g> &amp;c. fuit ſeiſt de le dit rent puis, en q<g ref="char:cmbAbbrStroke">̄</g>l caſe le dit Iohn<g ref="char:cmbAbbrStroke">̄</g> worſeley doit au<g ref="char:cmbAbbrStroke">̄</g> ſon br<g ref="char:cmbAbbrStroke">̄</g>e Dentre ſut diſſeiſin de vn diſſm<g ref="char:cmbAbbrStroke">̄</g> fait a ſon predeceſſour et nemy laſſiſe. ¶ <hi>Vauiſour,</hi> qua<g ref="char:cmbAbbrStroke">̄</g>t a le primer acre ſoule tenaunt come le br<g ref="char:cmbAbbrStroke">̄</g>eſupp<g ref="char:cmbAbbrStroke">̄</g> ſauns <abbr>c</abbr> q<g ref="char:cmbAbbrStroke">̄</g> lautre &amp;c. rie<g ref="char:cmbAbbrStroke">̄</g>s ad priſt, <hi>et alii econtra.</hi> Et qua<g ref="char:cmbAbbrStroke">̄</g>t a lautr<g ref="char:cmbAbbrStroke">̄</g>, tena<g ref="char:cmbAbbrStroke">̄</g>t co<g ref="char:cmbAbbrStroke">̄</g>e laſ<expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> ſupp<g ref="char:cmbAbbrStroke">̄</g> priſt, <hi>et alii econtra.</hi> Et qua<g ref="char:cmbAbbrStroke">̄</g>t a la tierce, cel <abbr>pl</abbr> neſt pas bone, q<g ref="char:cmbAbbrStroke">̄</g>r
+<pb facs="tcp:26037:5" rendition="simple:additions"/>il ne amount forſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> a general iſſue .s. quil ne fuiſt vnques ſeiſi iſſint quil poet eſtre diſſeiſi, et pur <abbr>c</abbr> il prendr<g ref="char:cmbAbbrStroke">̄</g> cel iſſue come en briefe de Dower, ſi le tenaunt monſtre que le baron le demaundant nauoit vnques riens forſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> pur terme deuie &amp;c. ceo ne amou<g ref="char:cmbAbbrStroke">̄</g>t pluis q<g ref="char:cmbAbbrStroke">̄</g> ne vn<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſeiſie que dower el p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it, et pur <abbr>c</abbr> il prendre cel general iſſue, et iſſinticy. <hi>Brian</hi> quaunt a ceo reſpoignez, quar en aſſiſe le tenaunt au<g ref="char:cmbAbbrStroke">̄</g>a eſpecial mar<g ref="char:cmbAbbrStroke">̄</g> en ſon plee et eſpe<g ref="char:EOLhyphen"/>cialm<g ref="char:cmbAbbrStroke">̄</g>t, quant il eſt pur au<g ref="char:cmbAbbrStroke">̄</g> auantage pur le pled<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> de ceo, et <abbr>c</abbr> ſerra enquer<g ref="char:cmbAbbrStroke">̄</g> par laſſiſe, et iſſint fuit lop inion de toutz les <abbr>iuſtic</abbr>, <hi>Vaui<expan>
+                     <am>
+                        <g ref="char:abser"/>
+                     </am>
+                     <ex>ser</ex>
+                  </expan>.</hi> pur aut<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> cauſe il neſt bon que il ad monſtre vn paiment al feaſt de ſeint Michel, et vn paiment et vn reſceit al feeſt de ſeint Michel, et nad mie monſtre en q<g ref="char:cmbAbbrStroke">̄</g>l an. &amp;c. iſſit le ple ne<g ref="char:cmbAbbrStroke">̄</g> bon. <hi>Catesbie,</hi> il ſerra priſe pluis fort enco<g ref="char:cmbAbbrStroke">̄</g>ire lay, et pur ceo preignez vr<g ref="char:cmbAbbrStroke">̄</g>e auauntage, quaril ne poet eſtre autrement priſe mes quil fuit en le vie de W. S. et adonques il neſt cure a luy quicun<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> temps quil fiſt, iſſint le plee eſt aſſetz bon, nient obſtaunt &amp;c. <hi>Vauiſour,</hi> il neſt bon pur vn aur<g ref="char:cmbAbbrStroke">̄</g> cauſe, et ceo eſt pur ceo que vn Deane et vn chapir<g ref="char:cmbAbbrStroke">̄</g>, ne poient ce<g ref="char:cmbAbbrStroke">̄</g> diſſeiſies dun rent, quar ilz ſerront toutz foitz deuie en poſſ. quar dun rent home ne poet ee<g ref="char:cmbAbbrStroke">̄</g> diſſiſmon a ſon pleaſure, et pur ceo le ley entond<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> nient obſtant que reſcous ſoit fait que a toutz foitz le poſſ. de m<g ref="char:cmbAbbrStroke">̄</g> le rent continue en droit del chopiter. Et ſi ſerra iſſint entendue adonq<g ref="char:cmbAbbrStroke">̄</g>s laſſiſe eſt meintenable com<g ref="char:cmbAbbrStroke">̄</g>t que nul ſeiſin fuit ewe puis le reſcous, &amp; iſſit moy ſemble laſſiſe &amp;c. <hi>Suliard.</hi> le co<g ref="char:cmbAbbrStroke">̄</g>trarie, et come moy ſemble q<g ref="char:cmbAbbrStroke">̄</g> le Dean<g ref="char:cmbAbbrStroke">̄</g> et chapiter, ſerront ſemble a vn abbe et ſon couent. Et ſi vn abbe et ſon couent <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> diſſeiſies, &amp; puis labbe eſt dereigne ou eſt mort la labbe. &amp;c. ſer<g ref="char:EOLhyphen"/>roit miſe a lour br<g ref="char:cmbAbbrStroke">̄</g>e Dentre ſur diſſeiſin, iſſint moy ſemble icy en xel caſe. ¶ <hi>Brian,</hi> cel cas neſt ſemble a vn abbe ou priour, quar come vous ditz ilz ferront miſes a lour briefe Dentre &amp;c. quar ſi vn abbe ſoit diſſeiſi et mo<g ref="char:EOLhyphen"/>ruſt, labbe eſt miſe a ſon briefe Dentre, <hi>de quibus.</hi> mes ſi vn deane et cha<g ref="char:EOLhyphen"/>piter ſont diſſeiſies et le deane murruſt, et vn autre eſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eu la le deane et chapiter auer ont aſſiſe, et le cauſe eſt pur ceo que le deane et le chapiter ſont vn corps entier, et quant le deane eſt mort, vncore le chapiter ſoient parſons abbe de ſuer<g ref="char:cmbAbbrStroke">̄</g> &amp;c. et iſſint neſt le couent &amp;c. Et iſſint eſt du<g ref="char:cmbAbbrStroke">̄</g> mater et cominalte coment que le mayre murruſt pend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> aſcun accion, vncore le briefe nabatera, et iſſint de deane &amp;c. Ite<g ref="char:cmbAbbrStroke">̄</g> ſi vn deane fiſt feffement de terre le chapiter ceo eſt vn diſſeiſin al deane et le chapiter et ilz ioindr<g ref="char:cmbAbbrStroke">̄</g> en aſſiſe, et le cauſe eſt pur ceo que le deane et le chapiter ſont vn corpz et nul choſe fait par aſcun deur ne preiudice a le chapiter, quar ſi le deane en le noſme del chapiter voill commaunder<g ref="char:cmbAbbrStroke">̄</g> vn pur demaunder<g ref="char:cmbAbbrStroke">̄</g> vn rent ceſt commaundement neſt bon. Et coment que le deame m<g ref="char:cmbAbbrStroke">̄</g> voet demaunder rent en noſme del deane et chapir<g ref="char:cmbAbbrStroke">̄</g>, il neſt bon, quar vn couient dauoit vn co<g ref="char:cmbAbbrStroke">̄</g>maundement de ſouthe le ſeale del chapiter ou autrement il neſt bo<g ref="char:cmbAbbrStroke">̄</g>. Et iſſint eſt dun meyre et vn commalie, mes de vn abbe et vn couent le ley eſt tout autre, quar ſi labbe fiſt feffement le ſucceſſour ſerra miſe a ſon br<g ref="char:cmbAbbrStroke">̄</g> de <hi>Sine aſſe<g ref="char:cmbAbbrStroke">̄</g>ſu capit.</hi> Et iſſint pur <abbr>c</abbr> co<g ref="char:cmbAbbrStroke">̄</g>e moy ſe<g ref="char:cmbAbbrStroke">̄</g>ble que il ne poet eſtr<g ref="char:cmbAbbrStroke">̄</g> diſſm<g ref="char:cmbAbbrStroke">̄</g>
+               <pb facs="tcp:26037:6" rendition="simple:additions"/>al dcane ſino<g ref="char:cmbAbbrStroke">̄</g> q<g ref="char:cmbAbbrStroke">̄</g> il ſoit diſſeiſin al chapir<g ref="char:cmbAbbrStroke">̄</g> pur ceo que le droit a toutes foitz co<g ref="char:cmbAbbrStroke">̄</g>tinue donq<g ref="char:cmbAbbrStroke">̄</g>s ment obſtant le reſcous le deane &amp; le chapir<g ref="char:cmbAbbrStroke">̄</g> fuer<g ref="char:cmbAbbrStroke">̄</g> en poſſ. do<g ref="char:cmbAbbrStroke">̄</g>
+               <expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> de cel diſſm<g ref="char:cmbAbbrStroke">̄</g> ilz ont bo<g ref="char:cmbAbbrStroke">̄</g> ca<g ref="char:cmbAbbrStroke">̄</g>e daſſiſe, &amp; le ple ne<g ref="char:cmbAbbrStroke">̄</g> bo<g ref="char:cmbAbbrStroke">̄</g>, &amp; iſſit fuit lopion &amp;c.</p>
+            <p>
+               <hi>VAuiſour</hi> vient al barr<g ref="char:cmbAbbrStroke">̄</g> et monſtra coment Ro. Sutton &amp; Elizabeth Foſter fuer<g ref="char:cmbAbbrStroke">̄</g> al iſſue en br<g ref="char:cmbAbbrStroke">̄</g> de detinue,<note place="margin">Reſiduum del brief de Detinue.</note> &amp; le<g ref="char:cmbAbbrStroke">̄</g>q<g ref="char:cmbAbbrStroke">̄</g>ſt paſſa pur R. S. le <abbr>pl</abbr> al iour de <hi>Niſi prius</hi> co<g ref="char:cmbAbbrStroke">̄</g>e appiert ꝑ le record<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> pur q<g ref="char:cmbAbbrStroke">̄</g> il pria ſon iugement. <hi>Toun<expan>
+                     <am>
+                        <g ref="char:abser"/>
+                     </am>
+                     <ex>ser</ex>
+                  </expan>
+               </hi> al iugem<g ref="char:cmbAbbrStroke">̄</g>t ne deuez aler co<g ref="char:cmbAbbrStroke">̄</g>e appiert ꝑ le record<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> lenq<g ref="char:cmbAbbrStroke">̄</g>ſt ad troue q<g ref="char:cmbAbbrStroke">̄</g> le def. detient tout ceo q<g ref="char:cmbAbbrStroke">̄</g> le <abbr>pl</abbr> ad cu<g ref="char:cmbAbbrStroke">̄</g>te. Et le <abbr>declarac</abbr> fuit de cerr<g ref="char:cmbAbbrStroke">̄</g> a nulles dore oue lapis <g ref="char:abpre">p̄</g>ſieux .s. vn oueſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Ruby et vn auter oue vn Diamo<g ref="char:cmbAbbrStroke">̄</g>de, &amp; ad auri cou<g ref="char:cmbAbbrStroke">̄</g>ta de cerr<g ref="char:cmbAbbrStroke">̄</g> perches de pa<g ref="char:cmbAbbrStroke">̄</g>nes .s.xii. ꝑchez de pa<g ref="char:cmbAbbrStroke">̄</g>ne de colour de violet, et .xii. ꝑchez de blewe, et mr<g ref="char:cmbAbbrStroke">̄</g>a le price cer<g ref="char:cmbAbbrStroke">̄</g> de <abbr>cheſc</abbr> choſe, et de cheſcu<g ref="char:cmbAbbrStroke">̄</g> perche, et auxi il cou<g ref="char:cmbAbbrStroke">̄</g>ta de vn bagge enſeale oue .x. <abbr>li</abbr>. de ore, et lenqueſt ad aſſeſſe le dam<g ref="char:cmbAbbrStroke">̄</g> a .xxx. <abbr>li</abbr>. pur tout ceoq<g ref="char:cmbAbbrStroke">̄</g> il ad cou<g ref="char:cmbAbbrStroke">̄</g>te except le argent. Et len<g ref="char:EOLhyphen"/>queſt dit ouſtre en lour verdit, ſi les ditz iuelz et le pa<g ref="char:cmbAbbrStroke">̄</g>ne et toutz forſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> le bagge oue les .x.li.ne poet eſtre ewe que adonq<g ref="char:cmbAbbrStroke">̄</g>s pur les ditz iuellez &amp;c. forſque le bagge &amp;c. le <abbr>pl</abbr> recou<g ref="char:cmbAbbrStroke">̄</g>a .xx. <abbr>li</abbr>. et pur le bagge oueſque le ore .x. <abbr>li</abbr>. donq<g ref="char:cmbAbbrStroke">̄</g>s vous ne poiez al iugement aler ſur cel verdit, q<g ref="char:cmbAbbrStroke">̄</g>r les dam<g ref="char:cmbAbbrStroke">̄</g> a toutz forſque le bagge ſont en vn generaltie lez q<g ref="char:cmbAbbrStroke">̄</g>ux doient ee<g ref="char:cmbAbbrStroke">̄</g> ſeueral cheſcun par luy .s. cheſcun annel par luy meſine, &amp; cheſcu<g ref="char:cmbAbbrStroke">̄</g> perche de pa<g ref="char:cmbAbbrStroke">̄</g>ne par luy et pur cel entent que ſi le <abbr>viſc</abbr> a que le briefe ſerroit direct pur deliuere cel choſes ſil ne poet eux trouer pur ceo q<g ref="char:cmbAbbrStroke">̄</g> ilz ſont eſ loignez, donq<g ref="char:cmbAbbrStroke">̄</g>s le court agarderoit <abbr>execuc</abbr> des dam<g ref="char:cmbAbbrStroke">̄</g> des bn<g ref="char:cmbAbbrStroke">̄</g>z le def. accord<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> a le verdit, et en cel cas le dam<g ref="char:cmbAbbrStroke">̄</g> ſont general iſſint coment que le viſcount retourne que parcelde les biens ſoient eſtoignes, &amp; que il ad deliuer le rem enant pur ceux q<g ref="char:cmbAbbrStroke">̄</g> ſo<g ref="char:cmbAbbrStroke">̄</g>t eſioign<g ref="char:cmbAbbrStroke">̄</g>z nul value eſt allege en certein, iſſint que le court poet faire leue des bie<g ref="char:cmbAbbrStroke">̄</g>s propres a m<g ref="char:cmbAbbrStroke">̄</g> le value, q<g ref="char:cmbAbbrStroke">̄</g>r le value ne appiert. Et en m<g ref="char:cmbAbbrStroke">̄</g> le man<g ref="char:cmbAbbrStroke">̄</g> ſi le def. voille vener cy encourt et tend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> toutz les choſes forſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> vn annel ou forſque vn perche del panne, il eſt en certein q<g ref="char:cmbAbbrStroke">̄</g>l dam<g ref="char:cmbAbbrStroke">̄</g> le <abbr>pl</abbr> auera, pur ceo que eſt eſloigne et pur ceo, ceo eſt vn ieofaile come en briefe de Tn<g ref="char:cmbAbbrStroke">̄</g>s de bn<g ref="char:cmbAbbrStroke">̄</g>s enpartes et debruſes de ceſt meaſon et le def. pled<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> ſeueral plees et lenqueſtes troue amvideux oue le <abbr>pl</abbr> &amp; aſſeſſe dam<g ref="char:cmbAbbrStroke">̄</g> ouſtrement ſi lun <abbr>pl</abbr> ne ſoit aſſetz bon, iſſint que eſt vn ieofaile, coment que lautre plee ſoit aſſetz bon la nuliugement ſerra done, et vncore le <abbr>pl</abbr> ad bo<g ref="char:cmbAbbrStroke">̄</g> cauſe de laur<g ref="char:cmbAbbrStroke">̄</g> Treſpas pur auoir dam<g ref="char:cmbAbbrStroke">̄</g>: mes pur ceo que pur ambideux tn<g ref="char:cmbAbbrStroke">̄</g>s les dam<g ref="char:cmbAbbrStroke">̄</g> ſont entier et nemy ſeuer<g ref="char:cmbAbbrStroke">̄</g>, et pur lun il nad cauſe dauoir &amp;c. Pur ceo nul iugement ſerra done, et iſſint en ceſt caſe. <hi>Vauiſour</hi> ſemble le contra<g ref="char:EOLhyphen"/>trarie, quar le verdit eſt condicionel come il appiert .s. ſi les iewelles et pannes ne poie<g ref="char:cmbAbbrStroke">̄</g>t eſtre troues que adonq<g ref="char:cmbAbbrStroke">̄</g>s lenq<g ref="char:cmbAbbrStroke">̄</g>ſt al aſſeſſe dam<g ref="char:cmbAbbrStroke">̄</g> pur ceux a xx. <abbr>li</abbr>. adonques quaunt le vicount vient pur les bn<g ref="char:cmbAbbrStroke">̄</g>z pur fair<g ref="char:cmbAbbrStroke">̄</g> 
+               <abbr>exec</abbr> et <abbr>l</abbr> def. voet tend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> ꝑcel de les bn<g ref="char:cmbAbbrStroke">̄</g>s et nei toutz adonq<g ref="char:cmbAbbrStroke">̄</g>s le <abbr>vic</abbr> ne prendra ceux ſmon q<g ref="char:cmbAbbrStroke">̄</g> il tend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> toutz. Et ſi le <abbr>vic</abbr> voet prendre parcel deux et voet deliu<g ref="char:cmbAbbrStroke">̄</g>e eur al partie adonques le partie neſt tenus de prendre cel parcel. mes il tiendra luy a les dam<g ref="char:cmbAbbrStroke">̄</g> que lenqueſt done pur def. de ceux et ceo ſerra pur
+<pb facs="tcp:26037:6" rendition="simple:additions"/>cheſcun partie de eux &amp;c. Et ſile <abbr>pl</abbr> priſt aſcun parte deux et nemy toutez donq<g ref="char:cmbAbbrStroke">̄</g>s le <abbr>vic</abbr> ne ſerra a nul miſchiefe, quar par cel accept<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> de parcel il ad luy exclud<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> de tout le dam<g ref="char:cmbAbbrStroke">̄</g> aſſeſſe, quar il neſt rea<expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> q<g ref="char:cmbAbbrStroke">̄</g>il eit lun et lauter ou parcel de lun et parcel de iaut<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>, mes il tiendra luy a lun iſſint ſi le <abbr>vic</abbr> voil deliu<g ref="char:cmbAbbrStroke">̄</g>e a luy ꝑcel et il accept donques il luy ad forcloſe de toutz lez dam<g ref="char:cmbAbbrStroke">̄</g>, mes ſilre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uce adonques il au<g ref="char:cmbAbbrStroke">̄</g>a toutz les dam<g ref="char:cmbAbbrStroke">̄</g> et nemy pluis, iſſint le def. ne ſerra a nul miſchief, q<g ref="char:cmbAbbrStroke">̄</g>r il ne ſerra charge forſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> de lun iſſint le verdit bon. ¶ <hi>Briggis</hi> ſe<g ref="char:cmbAbbrStroke">̄</g>ble le conr<g ref="char:cmbAbbrStroke">̄</g>, et primes a le conceit q<g ref="char:cmbAbbrStroke">̄</g> eſt pris que le <abbr>pl</abbr> neſt p<g ref="char:cmbAbbrStroke">̄</g> temis de <g ref="char:abpre">p̄</g>nder ꝑcel ſi ſoit tend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> par le <abbr>vic</abbr> come vn de les annelles &amp;c. ou toutz les cho<expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> dd<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>e forſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> vn parche de le pa<g ref="char:cmbAbbrStroke">̄</g>ne ſir ieo entend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> le ley con<g ref="char:EOLhyphen"/>trar<g ref="char:cmbAbbrStroke">̄</g>. Etieo ſay bn<g ref="char:cmbAbbrStroke">̄</g> ſi home port briefe de Detinue de vn peace de pan co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>teignaunt en luy m<g ref="char:cmbAbbrStroke">̄</g> .xx. parches, et ad iugem<g ref="char:cmbAbbrStroke">̄</g>t pur <abbr>rec</abbr>, &amp; le <abbr>vic</abbr> voet tend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> vn peace en <abbr>excc</abbr> de .x. parches &amp;c. il ne prend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> ceo eins les dam<g ref="char:cmbAbbrStroke">̄</g> aſſeſſe &amp;c. Et le ca<g ref="char:cmbAbbrStroke">̄</g>e eſt pur <abbr>c</abbr> que ceſ choſe dd<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>e eſt vn choſe entier et <abbr>c</abbr> ne ſerra ſeu<g ref="char:cmbAbbrStroke">̄</g>e: mes ſi ho<g ref="char:cmbAbbrStroke">̄</g>e ꝑt accion de Detinue de .iiii. <abbr>annell</abbr> .ii, cheines dore .ii. peces de pan dont lun eſt violet, &amp; laur<g ref="char:cmbAbbrStroke">̄</g> grene ſi le <abbr>pl</abbr> ad iugement pur <abbr>rec</abbr> ceu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on dam<g ref="char:cmbAbbrStroke">̄</g> pur def. deur ſi <abbr>aſc</abbr> de lez <abbr>anull</abbr> ou vn de les cheines ou vn de les peces de pan ſoit tend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> le <abbr>pl</abbr> eſt oblige pur prend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> eux pur ceo q<g ref="char:cmbAbbrStroke">̄</g> cel choſe eſt en m<g ref="char:cmbAbbrStroke">̄</g> le nature co<g ref="char:cmbAbbrStroke">̄</g>e il dd<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>e: et en briefe de Detenue home ne <abbr>rec</abbr> dam<g ref="char:cmbAbbrStroke">̄</g> lou m<g ref="char:cmbAbbrStroke">̄</g> le choſe dd<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>e poet ee<g ref="char:cmbAbbrStroke">̄</g> deliu<g ref="char:cmbAbbrStroke">̄</g>e <hi>quod fuit conceſſum</hi> par <hi>Brian,</hi> mes <hi>Brigges</hi> dit que ſi ſo<g ref="char:cmbAbbrStroke">̄</g> dd<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>e fuit dun choſe entier, et le <abbr>vic</abbr> voilet tend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> parcel de ceo, il neſt oblige pur prend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>, mes tiend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> luy a ſon dam<g ref="char:cmbAbbrStroke">̄</g> iſſint le diuerſite co<g ref="char:cmbAbbrStroke">̄</g>e moy ſemble. Et pur <abbr>c</abbr> en cel cas que le part<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e deliu<g ref="char:cmbAbbrStroke">̄</g>a al <abbr>vic</abbr> vn de lez <abbr>annell</abbr>, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> vn de les peces del pan le partie eſt oblige pur prend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> eux, &amp; donques del remenau<g ref="char:cmbAbbrStroke">̄</g>t il nad remedy pur ceo moy ſe<g ref="char:cmbAbbrStroke">̄</g>ble q<g ref="char:cmbAbbrStroke">̄</g> le verdit de <abbr>l</abbr> dam<g ref="char:cmbAbbrStroke">̄</g> entierm<g ref="char:cmbAbbrStroke">̄</g>t ne<g ref="char:cmbAbbrStroke">̄</g> bon, mes eſt vn ieofail et les ꝑties doient <abbr>repled</abbr> &amp;c. ¶ <hi>Starkey</hi> a m<g ref="char:cmbAbbrStroke">̄</g> le<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tent, q<g ref="char:cmbAbbrStroke">̄</g>r en tielx ca<expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> lou vn vordit doit ee<g ref="char:cmbAbbrStroke">̄</g> condicionel la il couie<g ref="char:cmbAbbrStroke">̄</g>t dee<g ref="char:cmbAbbrStroke">̄</g> cerr<g ref="char:cmbAbbrStroke">̄</g> a <abbr>cheſc</abbr> entent co<g ref="char:cmbAbbrStroke">̄</g>e en vn <hi>Quare imp<g ref="char:cmbAbbrStroke">̄</g>,</hi> et en aſſ. de darr<g ref="char:cmbAbbrStroke">̄</g> preſentme<g ref="char:cmbAbbrStroke">̄</g>t done ꝑ leſtatute de W.ii.ca.vii.q<g ref="char:cmbAbbrStroke">̄</g> don q<g ref="char:cmbAbbrStroke">̄</g> le <abbr>pl</abbr> recou<g ref="char:cmbAbbrStroke">̄</g>a dam<g ref="char:cmbAbbrStroke">̄</g> ſi ſoit troue enco<g ref="char:cmbAbbrStroke">̄</g>tre le def .s. ſiſoit apres les .vi. mois &amp; <abbr>leſgl</abbr> plein q<g ref="char:cmbAbbrStroke">̄</g> adonques il <abbr>rec</abbr> dam<g ref="char:cmbAbbrStroke">̄</g> eian<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> regard<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> al value del bn<g ref="char:cmbAbbrStroke">̄</g>fice de .ii. ans, et ſil recou<g ref="char:cmbAbbrStroke">̄</g>e deuaunt .vi. mois qu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ado<g ref="char:cmbAbbrStroke">̄</g>quez forſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> a le value del benefice de di an &amp;c. Sien vn <hi>Quare imp<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> le ꝑties ſont a iſſue, &amp; eſt troue pur le <abbr>pl</abbr> &amp; diont ouſtre que <abbr>leſgl</abbr> vaut par an .x. <abbr>li</abbr>. ſi lenq<g ref="char:cmbAbbrStroke">̄</g>ſt en lour verdit ne mr<g ref="char:cmbAbbrStroke">̄</g>e ſi <abbr>leſgl</abbr> ſoit plein ꝑ le .vi. mois on autreme<g ref="char:cmbAbbrStroke">̄</g>t, le verdit ne<g ref="char:cmbAbbrStroke">̄</g> bon, et <abbr>vnc</abbr> ſil ne ſoit plem il auera br<g ref="char:cmbAbbrStroke">̄</g> al eueſque &amp; dam<g ref="char:cmbAbbrStroke">̄</g> pur dei an, mes le verdit couie<g ref="char:cmbAbbrStroke">̄</g>t dee<g ref="char:cmbAbbrStroke">̄</g> cerr<g ref="char:cmbAbbrStroke">̄</g>, iſſint q<g ref="char:cmbAbbrStroke">̄</g> le court poet auer notice que eſt a faire, m<g ref="char:cmbAbbrStroke">̄</g> le ley eſt en briefe de Rauiſhem<g ref="char:cmbAbbrStroke">̄</g>t de garde leſta<g ref="char:EOLhyphen"/>tut done q<g ref="char:cmbAbbrStroke">̄</g> ſi le enfaunt ſoit marie que adonques le <abbr>pl</abbr> recouer<g ref="char:cmbAbbrStroke">̄</g> put le ma<g ref="char:EOLhyphen"/>riage &amp;c. et en le briefe neſt fait aſcun mencion del mariage, et vncore ſi lenqueſt troue q<g ref="char:cmbAbbrStroke">̄</g> le def. ad luy deforce adonq<g ref="char:cmbAbbrStroke">̄</g>s ilz couient de<g ref="char:cmbAbbrStroke">̄</g>quire ouſtre del value del marige, &amp; ilz auxi en lour verdit done couient adire et ſil ſoit marie adonques pur le mariage. C. <abbr>li</abbr>. et ſi nemy do<g ref="char:cmbAbbrStroke">̄</g>ques .xx. <abbr>li</abbr>. iſſint en cheſcun cas lou le verdit eſt condicionel, adonques les dam<g ref="char:cmbAbbrStroke">̄</g> aſſeſſe
+<pb facs="tcp:26037:7" rendition="simple:additions"/>couient de ſtre certein a cheſcun entent, &amp; pur cheſcun choſe ſeueralment &amp;c. iſſint vn ieo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aile. ¶ <hi>Suliard.</hi> a le contrar<g ref="char:cmbAbbrStroke">̄</g>, quar les damages pur toutz generalment ſont bient dones, &amp; le partie defendant a nul miſchief, quar ſi le dam<g ref="char:cmbAbbrStroke">̄</g> ſont hors de meaſure adonques atteint eſt done a le partie le quel il poet auoir. Et ſi le iugement ſoit done erroyn<g ref="char:cmbAbbrStroke">̄</g> adonques il poet a<g ref="char:EOLhyphen"/>uoit br<g ref="char:cmbAbbrStroke">̄</g>e Derrour, &amp; iſſuit a nul miſchief. Et ſir moy ſemble <abbr>auxi</abbr> que de<g ref="char:EOLhyphen"/>uant iugeme<g ref="char:cmbAbbrStroke">̄</g>t il ne appiert aſcun miſchief, que poet eſtre a le partie, quar le miſchiefe que ſerra, eſt qua<g ref="char:cmbAbbrStroke">̄</g>t lexecution ſerra ſue &amp;c. ¶ <hi>Brian</hi> de ceo luy briefinent diſcharge, quar il dit q<g ref="char:cmbAbbrStroke">̄</g>il appiert bien a quel miſchiefe le ꝑtie poet ee<g ref="char:cmbAbbrStroke">̄</g> ſur lexecucion ſuer par que &amp;c. <hi>Colowe</hi> ſe<g ref="char:cmbAbbrStroke">̄</g>ble que ceo eſt vn ieo<g ref="char:EOLhyphen"/>faile, quar come ad eſtre dit dam<g ref="char:cmbAbbrStroke">̄</g> doient eſtre ſeueral &amp;c. condicionel co<g ref="char:cmbAbbrStroke">̄</g>e le remenaunt. Et ſi iugement ſerroit done ſur cel verdit donq<g ref="char:cmbAbbrStroke">̄</g>s grande enco<g ref="char:cmbAbbrStroke">̄</g>uenie<g ref="char:cmbAbbrStroke">̄</g>ce poet enſuer<g ref="char:cmbAbbrStroke">̄</g> ſur <abbr>lexecuc</abbr> come en vn <hi>Replegiare</hi> porte de .iii. ſeueral boeffes priſes, &amp;le defendaunt fiſt .iii. ſeueral anowries, et ſont a iſſue, et lenqueſt troue tout encountre le defe<g ref="char:cmbAbbrStroke">̄</g>dant, et acceſſont dam<g ref="char:cmbAbbrStroke">̄</g> en<g ref="char:EOLhyphen"/>tierement pur toutz a le <abbr>pl</abbr>, &amp; lun auowrie eſt ieofaile, pur ceo que ne fuit <abbr>ſufficient</abbr>. En ceo cas le verdit eſt voide en le tout, etnul iugement ſerra done, &amp; vncore le <abbr>pl</abbr> ad bon cauſe dauer iugement pur les auters .ii. mez pur ceo que les damages ſont aſſeſſes entierment pur ceo le iugement de ceux ne puit eſtre ſeuere, &amp; pur lun boef il ne poet auer iugement pur cauſe <hi>vt ſupra,</hi> et pur ceo il nauera iugement pur le remenant, et iſſint en le cas al barr<g ref="char:cmbAbbrStroke">̄</g>, et iſſint vn ieofaile. ¶ <hi>Catisbie</hi> a le contrarie, q<g ref="char:cmbAbbrStroke">̄</g>r nul voſlie dire a le contrarie, mes que la declaracion fuit bon, &amp; la il fuit as dam<g ref="char:cmbAbbrStroke">̄</g> generalment etle plee en barre fuit bon. s que il ne detient point, et ſur <abbr>c<g ref="char:EOLunhyphen"/>lenqueſt</abbr> trouer<g ref="char:cmbAbbrStroke">̄</g> que il detient as dam<g ref="char:cmbAbbrStroke">̄</g> &amp;c. et ceo parcel del verdit fuit bon donques quaunt lenqueſt dit ouſtre et ſi les ditziewelties .s. les a<g ref="char:cmbAbbrStroke">̄</g>nelles &amp;c. e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le panne et tout forſque le <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>agge oueſque le argent &amp;c. ne poet eſtrs troue que adonques pur les ditz touelles et panne forſque les .x. liuers &amp;c. le pleintife recouer .xx. liuers, a ore cel eſt bten done auxi, <hi>ct non dixit</hi> pluis pur ceoque il et lauter des Iuſtices aleront enle Chauncerye et a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ourne. &amp;c.</p>
+            <p>EN le Chauncery deuant leueſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> de Lincoln<g ref="char:cmbAbbrStroke">̄</g> Chaunceller Dengle<g ref="char:EOLhyphen"/>terre,<note place="margin">Chaunce<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i</note> et deuaunt <hi>Choke</hi> et <hi>Catiſbie</hi> iuſtice vn matter fuit moue pur le roy deuant eux per <hi>Town</hi> 
+               <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> ſeriant alroy, <abbr>l</abbr> quel fait vn <abbr>enformac</abbr> enle Chauncery pur le roy, et fuiſt ſurmitte a le court que lou vn Willm<g ref="char:cmbAbbrStroke">̄</g> Fouler fuit poſſeſſe dun garde de corps del heire et terre dun I. at S. le dit willm<g ref="char:cmbAbbrStroke">̄</g> Fouler graunt le dit garde delcorps et terre a vn w. Dau<g ref="char:cmbAbbrStroke">̄</g>s et que puis le roy par ſes letters patentz conferma et ratifia leſtate de le dit w. <hi>Dauers</hi> de le dit garde par force de quel, vn <hi>ſub pena</hi> tuit agardo enners vii T. Pole pur ceo que il auoit le corps de auer le corps deuant le roy en ſon chauncerie a. vi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ours de ſeint Trin<g ref="char:cmbAbbrStroke">̄</g>, et auri pur appere la a q<g ref="char:cmbAbbrStroke">̄</g>l iour le dit Pole, vient eins &amp; dit per <hi>Brian</hi> apprentice que ceſt enfor<g ref="char:EOLhyphen"/>macion ne fuit p<g ref="char:cmbAbbrStroke">̄</g> ſufficient et dd<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>e iudgement ſil in ttera eins le corps ſur<g ref="char:EOLunhyphen"/>rel
+<pb facs="tcp:26037:7" rendition="simple:additions"/>enformacion, quar ſil doit adonques enſueroit graunde miſchiefe, q<g ref="char:cmbAbbrStroke">̄</g>r adonques nul home aueroit le cuſtodie de <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> ſeigniorie demeſne, quar ſi nousdeuoꝰ deliuerer le gard<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> noꝰ nauoꝰ aſcun man<g ref="char:cmbAbbrStroke">̄</g> de remedie die pur ceo auer arere, quar nul original auoꝰ a rn<g ref="char:cmbAbbrStroke">̄</g>dre, et nul officee<g ref="char:cmbAbbrStroke">̄</g> trouer pur le roy. Et lenformacio<g ref="char:cmbAbbrStroke">̄</g> ne<g ref="char:cmbAbbrStroke">̄</g> 
+               <abbr>p<g ref="char:cmbAbbrStroke">̄</g>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uiffic</abbr>, quar ꝑ cel nul man<g ref="char:cmbAbbrStroke">̄</g> de title ne colour <abbr>daſc</abbr> eſt done a le roy, q<g ref="char:cmbAbbrStroke">̄</g>r lenformacion neſt forſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> lou il fuiſt en poſſ. de <hi>Dauers,</hi> le roy conferma <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> eſtate iſſint nul poſſ. tuit en le Roy netitle eſt monſtre, et pur nouz mitt<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> le roy en poſſeſſionicy lou nul poſſ. no droit eſt monſtre adeuant deſtrea le roy il ne ſerroit reaſon iſſint priuz deſtre diſ<g ref="char:EOLhyphen"/>miſſe dauer eins le corps et que nous de continuer le poſſ. &amp;c. <hi>Townſend</hi> pur le roy prialiu<g ref="char:cmbAbbrStroke">̄</g>e del corps, quarle roy poet eſte en title a vn garde par diuers maners come par vn <hi>Diem clauſit extrem<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m</hi> ou par informaci<g ref="char:EOLhyphen"/>on ou par ſeiſin, donques il neſt rea<expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> quant le roy empled<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> aſcu<g ref="char:cmbAbbrStroke">̄</g> home pur tiel garde que ilſoit hors de poſſeſſion, quarle poſſeſſion de droit ap<g ref="char:EOLhyphen"/>pent a le roye et le partie que ore ad <abbr>l</abbr> poſſ. neſt a aſcun miſchief, quar ſil apres appent a luy adonques il poit auer briefe ds Rauiſhement de garde. ¶ <hi>Suliarde</hi> a le contr<g ref="char:cmbAbbrStroke">̄</g>, et a ceo que eſt dit que il eſt reaſon que le roy eit le poſſeſſion quant lempled<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> aſcun home &amp;c. ceo eſt verite, mes ceo co<g ref="char:EOLhyphen"/>ment dee<g ref="char:cmbAbbrStroke">̄</g> lou ſufficient cauſe ou title eſt doner a le roye pur auer le poſſ. come par office troue que eſt matter de recorde ou bon enforma<g ref="char:EOLhyphen"/>cion ou aſcun poſſ. dee<g ref="char:cmbAbbrStroke">̄</g> vn foitz en le roy et nul de ceux eſt monſtre, quar riens eſt monſtre forſque vn confirmacion del roy a <hi>Dauers,</hi> le quel con<g ref="char:EOLhyphen"/>firmation ne done aſcun title ne poſſ. a le roy, quar le roy poit confirmer leſtatut dautre lou il nad aſcun droit &amp;c. Etſi en le formacio<g ref="char:cmbAbbrStroke">̄</g> aſcun tenur<g ref="char:cmbAbbrStroke">̄</g> vſt eſte ſurmitte parenter le pier de ley que eſt dems age &amp; le roy adon<g ref="char:EOLhyphen"/>ques par cas autrement ſerroit, mes nul tenure eſt ſurmitter ne aſcun autre title iſſint &amp;c. Et a ceo que eſt dit que nous ne ſerroꝰ a nul miſchief pur ceo que nous paiomnz auer brief de Rauiſhement de gard<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> &amp;c. <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> ioo entend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> que nul ley voet compeller aſcun home dau<g ref="char:cmbAbbrStroke">̄</g> ou deſuer accion de <abbr>c<g ref="char:EOLunhyphen"/>lou</abbr> 
+               <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> roſſ. eſt loialde m<g ref="char:cmbAbbrStroke">̄</g> le choſe et etle conr<g ref="char:cmbAbbrStroke">̄</g> neſt vncore mr<g ref="char:cmbAbbrStroke">̄</g>e pur que noꝰ prioꝰ le poſſ. pur continuer en nous &amp;c. ¶ <hi>Vauiſour,</hi> pur le roy ſemble que le roy au<g ref="char:cmbAbbrStroke">̄</g>a le poſſ. ou celuy a que le confir macion &amp;c. &amp; ap<g ref="char:cmbAbbrStroke">̄</g>s <abbr>c</abbr> q<g ref="char:cmbAbbrStroke">̄</g>il ad le poſſ. adonques de diſpur<g ref="char:cmbAbbrStroke">̄</g> le title le roy. et a ceo q<g ref="char:cmbAbbrStroke">̄</g> eſt dit que nul title ne poſſ. eſt mr<g ref="char:cmbAbbrStroke">̄</g>e deſire a le roy fori<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ꝑ <abbr>ienformac</abbr> eſt mr<g ref="char:cmbAbbrStroke">̄</g>e q<g ref="char:cmbAbbrStroke">̄</g> le roy co<g ref="char:cmbAbbrStroke">̄</g>ferma leſtate de <hi>Dauers</hi> &amp;c. Sir ceo ne fiſt matter, q<g ref="char:cmbAbbrStroke">̄</g>r <abbr>lenformac</abbr> ne ferra tort al roy eins qua<g ref="char:cmbAbbrStroke">̄</g>tle corps eſt venus eins adonq<g ref="char:cmbAbbrStroke">̄</g>s le roy ferra a luy nouel title ou au<g ref="char:EOLhyphen"/>trem<g ref="char:cmbAbbrStroke">̄</g>t <abbr>le<g ref="char:cmbAbbrStroke">̄</g>formac</abbr> 
+               <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan>ra amende, q<g ref="char:cmbAbbrStroke">̄</g>r le roy ne ſerra en m<g ref="char:cmbAbbrStroke">̄</g> le cas de co<g ref="char:cmbAbbrStroke">̄</g>en ꝑſon q<g ref="char:cmbAbbrStroke">̄</g>r en vn. <hi>Quare imp<g ref="char:cmbAbbrStroke">̄</g>,</hi> le roy ferr<g ref="char:cmbAbbrStroke">̄</g> a luy .xx. titles ꝑ .xx. preſentme<g ref="char:cmbAbbrStroke">̄</g>tz &amp; toutz ſerro<g ref="char:cmbAbbrStroke">̄</g>t enquirez ꝑ lenqueſt &amp; come<g ref="char:cmbAbbrStroke">̄</g>t q<g ref="char:cmbAbbrStroke">̄</g> lun ſoit troue enco<g ref="char:cmbAbbrStroke">̄</g>tre luy, vn autro poet ee<g ref="char:cmbAbbrStroke">̄</g> troue pur luy &amp;c. Et pur <abbr>c</abbr> il eſt reaſon entau<g ref="char:cmbAbbrStroke">̄</g>t que en <hi>ſub pena</hi> fair ꝑ <abbr>le<g ref="char:cmbAbbrStroke">̄</g>formac</abbr> eſt ſurmitte q<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>Dauers</hi> eſt gardein en ſait pur ceo ilſerra inco<g ref="char:cmbAbbrStroke">̄</g> uenient que le ꝑtie auera aſcu<g ref="char:cmbAbbrStroke">̄</g> trauer<expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> ou aſcun plee enco<g ref="char:cmbAbbrStroke">̄</g>tre <abbr>lenformac</abbr> ou en diſtruccion de le title le roy deuant que le roy ſoit en poſſ. et pur ceo
+<pb facs="tcp:26037:8"/>il ſemble que le roy au<g ref="char:cmbAbbrStroke">̄</g>a le poſſ. et auxi quant le roy luy ad en poſſ. le roy luy poet faire autre title, et pur ceo moy ſemble le corps ſerra deliuer. ¶ <hi>Catisbie</hi> iuſtice, ſir ieo entende bien come ad eſtre dit que com<g ref="char:cmbAbbrStroke">̄</g>t que vn title ſoit fait pur le roy. Et a ceo que ad eſtre dit q<g ref="char:cmbAbbrStroke">̄</g> eſt le pluis melior pur le roy ſerra priſe, et auxi come ad ce<g ref="char:cmbAbbrStroke">̄</g> dit lenformacion poet eſtre amende ſil ne ſoit ſufficient, mes ieo entend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> bien que vn tenure ſurmitte en le roy eſt bon title, et ceo cheſcun eſtrange ferr<g ref="char:cmbAbbrStroke">̄</g> pur le roy .s. que vn tiel moruſt en le homage le roy. Et auxi vn tenure oue poſſ. eſt bo<g ref="char:cmbAbbrStroke">̄</g> title pur le roy ſil ad droit ſans office. Et auxi vn office eſt bon title pur le roy, donq<g ref="char:cmbAbbrStroke">̄</g>z nous ſumus toutes agrees que vn office troue pur le roy eſt bon title .s. que vn tiel moruſt en homage que tient de luy &amp;c. I te<g ref="char:cmbAbbrStroke">̄</g> ſo<g ref="char:cmbAbbrStroke">̄</g> vn ſeiſer pur le roy lou le roy ad title et ceo ſans office. Et auxi vn tenure ſurmitte ꝑ matter en fait .s. par enformation eſt bo<g ref="char:cmbAbbrStroke">̄</g> title pur mitter le ꝑtie q<g ref="char:cmbAbbrStroke">̄</g> claima le gard<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> pur trauerſe lenformacio<g ref="char:cmbAbbrStroke">̄</g>&amp; le tenure &amp;c. Et <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> ieo die auxi que come<g ref="char:cmbAbbrStroke">̄</g>t que cel enformacio<g ref="char:cmbAbbrStroke">̄</g> en tiel forme neſt p<g ref="char:cmbAbbrStroke">̄</g> 
+               <abbr>ſuffic</abbr> pur le roy pur ceo que neſt mr<g ref="char:cmbAbbrStroke">̄</g>e aſcun <abbr>oitic</abbr> dee<g ref="char:cmbAbbrStroke">̄</g> troue &amp;c. que <abbr>launc</abbr> lenf. moruſt en le homage le roy ne aſcu<g ref="char:cmbAbbrStroke">̄</g> tenure ſur mitte enfait ne aſcu<g ref="char:cmbAbbrStroke">̄</g> ſſin en le roy &amp;c. <abbr>vnc</abbr> ieo entend<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> bie<g ref="char:cmbAbbrStroke">̄</g> q<g ref="char:cmbAbbrStroke">̄</g> pur lauauntage le roy lenformacion ſerra fait pluis melior et amende, ou autrement vn autre title poet eſte fait pur le roy come <hi>vt ſupra.</hi> mes de compeller le partie dauer eins le corps et de mitter le roy en poſſ. ſur cel ſurmiſe il ne poet eſte, quar cy neſt aſcun original que done le roy title a que le partie que ad le corps poet au<g ref="char:cmbAbbrStroke">̄</g> rn<g ref="char:cmbAbbrStroke">̄</g>s ne trauerz le quel ſi fuit troue cauſeroit le partie dauer le corps arere, lou ſi bo<g ref="char:cmbAbbrStroke">̄</g> title fuit falt pur le roy, come par office a donques le partie poet bn<g ref="char:cmbAbbrStroke">̄</g> trauer<expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> loffice et faire a luy title, &amp; ambideux ſerront enquiſe ou ſi le title le roy fuit ſuppoſe ꝑ poſſ. et oue droit, adonques le partie auera rn<g ref="char:cmbAbbrStroke">̄</g>s a eux et luy ferra title, iſſit pur <abbr>c</abbr> que nul deux eſt monſtre icy dauer le corps hors del poſſ. le roy, ſi le roy au<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roit le poſſ. pur ceo moy ſemble quele partie auera le poſſ. et nemye le roy. Et ſi liuere ſerroit a le roy et apres ceo le roy ne voillet faire autre title a que il poet auer rn<g ref="char:cmbAbbrStroke">̄</g>s, donques le partie ſerra miſe a ſon peticion al roy ou a ſon briefe de Rauiſhement de gard<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> enuers eſtraunge, ſieſtra<g ref="char:cmbAbbrStroke">̄</g>ge auoit le poſſ. le quel ſerroit miſchiefe a le partie, iſſint moy ſemble que il ne deliuera le corps ſans melior title &amp;c ¶ <hi>Chok</hi> a meſme lente<g ref="char:cmbAbbrStroke">̄</g>t, &amp; come ad eſte ditlou aſeun enformacion eſt fait en le Chauncerye, ſur quel vn <hi>Sub pena</hi> eſt agard<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> ſile enformacion ne ſoit ſufficient le partie poet faire va autre ſil voet, et ſir vn enformacion par parol eſt bon pur le roy ſur quel vn <hi>ſub pena</hi> poet eſte ag. et a cel enformacio<g ref="char:cmbAbbrStroke">̄</g> par parol ſauns eſcript le partie reſpo<g ref="char:cmbAbbrStroke">̄</g>dra. Et pur ceo en cel cas come<g ref="char:cmbAbbrStroke">̄</g>t que lenformacion ne ſoit <abbr>ſuffic</abbr> que eſt miſe en eſcripte, vncore le partie que ceo mitt<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> .s. ceſty que eſt ſuppoſe dee<g ref="char:cmbAbbrStroke">̄</g> gardein en fait par le confirmacion poet ſurmitt<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> par pa<g ref="char:EOLhyphen"/>rol poſſ. en le roy ou vn tenure par ſeruice de <abbr>ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</abbr>. et donques <abbr>c</abbr> eſt <abbr>ſuffic</abbr> pur mitt<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> le ꝑtie a rn<g ref="char:cmbAbbrStroke">̄</g>s, et <abbr>c</abbr> cauſera luy de auer eins le corps, mes come<g ref="char:cmbAbbrStroke">̄</g>t que ſoit bon, <abbr>vnc</abbr> ne ſerr<g ref="char:cmbAbbrStroke">̄</g> deliu<g ref="char:cmbAbbrStroke">̄</g> a celuy q<g ref="char:cmbAbbrStroke">̄</g> claim<g ref="char:cmbAbbrStroke">̄</g> dee<g ref="char:cmbAbbrStroke">̄</g> gardein en fait, mes il
+<pb facs="tcp:26037:8" rendition="simple:additions"/>ſerra deliuer a le court &amp; le court q<g ref="char:cmbAbbrStroke">̄</g> eſt la tierce parſon deliu<g ref="char:cmbAbbrStroke">̄</g>a luy a vn dez maiſr<g ref="char:cmbAbbrStroke">̄</g>z de le Chauncery en le gard<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> de mon<expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> le Chanceller pur ſauegard<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> tanque le droit ſoit de<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:cmbAbbrStroke">̄</g>mine a q<g ref="char:cmbAbbrStroke">̄</g> il <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan>ra deliu<g ref="char:cmbAbbrStroke">̄</g>. Et puis ꝑ aduiſe de le Chau<g ref="char:cmbAbbrStroke">̄</g> 
+               <abbr>cell</abbr> &amp; le maiſr<g ref="char:cmbAbbrStroke">̄</g> de <abbr>Roll</abbr>, et les <abbr>iuſtic</abbr> la preſent iour fuiſt done a <hi>Dauers</hi> que <abbr>mitr<g ref="char:cmbAbbrStroke">̄</g>lenformac</abbr> tanque a <hi>Craſtino Iohi<g ref="char:cmbAbbrStroke">̄</g>s.</hi> a quel iour il mitt<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> a eins ſon <abbr>enformac</abbr> 
+               <abbr>ſuffic</abbr> a rn<g ref="char:cmbAbbrStroke">̄</g>der, &amp; adonq<g ref="char:cmbAbbrStroke">̄</g>s le court voet ee<g ref="char:cmbAbbrStroke">̄</g> auiſe que ſerra fait, &amp; com<g ref="char:cmbAbbrStroke">̄</g>t le partie ſerr<g ref="char:cmbAbbrStroke">̄</g> demeſn<g ref="char:cmbAbbrStroke">̄</g> de auoir eins le corps, &amp; q<g ref="char:cmbAbbrStroke">̄</g> il ſerr<g ref="char:cmbAbbrStroke">̄</g> deliu<g ref="char:cmbAbbrStroke">̄</g> a quel iour <abbr>Ric</abbr> Pla<g ref="char:cmbAbbrStroke">̄</g>taginet frer<g ref="char:cmbAbbrStroke">̄</g> le roy E. le .iiii. iadez roy Denglieter Duke de Gloſeir<g ref="char:cmbAbbrStroke">̄</g>, protect<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> Dengler<g ref="char:cmbAbbrStroke">̄</g>, admitte duraunt le tendreage de le roy E. lo quinte claima deſtre roy De<g ref="char:cmbAbbrStroke">̄</g>gleterr<g ref="char:cmbAbbrStroke">̄</g>, &amp; a m<g ref="char:cmbAbbrStroke">̄</g> le iour proclaima le iour de ſo<g ref="char:cmbAbbrStroke">̄</g> coronacion parforce de quel, toutz lez courtz le roy fueront diſcontinue.<note place="margin">Nota.</note>
+            </p>
+            <p>
+               <seg rend="decorInit">N</seg>Ota que fuit dit a m<g ref="char:cmbAbbrStroke">̄</g> le iour en le Chauncerie, &amp; agree ꝑ toutz lesiugꝭ &amp; <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan>iantz le eſteautz que le roy ne poet ee<g ref="char:cmbAbbrStroke">̄</g> dit vn que fiſt tort, q<g ref="char:cmbAbbrStroke">̄</g>r ſi vn voet diſſi vn autre al oyez le roy, lou le roy nad dr<g ref="char:cmbAbbrStroke">̄</g> le roy ne poet ee<g ref="char:cmbAbbrStroke">̄</g> dit diſſeiſin <hi>quod nota.</hi> &amp;c.</p>
+            <p>
+               <seg rend="decorInit">E</seg>N Aſſ. port en banke le roy de .ii. acr<g ref="char:cmbAbbrStroke">̄</g> de t<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>re,<note place="margin">Aſſiſe.</note> le r<g ref="char:cmbAbbrStroke">̄</g> dit que aſſiſe ne doit ee<g ref="char:cmbAbbrStroke">̄</g>, q<g ref="char:cmbAbbrStroke">̄</g>r il dit que aut<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>foitz il port brief de Forind<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> de .xx. acres dont ceux &amp;c. enuers vn aut<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> donq<g ref="char:cmbAbbrStroke">̄</g>s r<g ref="char:cmbAbbrStroke">̄</g> le <abbr>proc</abbr> continue tanque il auoit iugeme<g ref="char:cmbAbbrStroke">̄</g>t pur recou<g ref="char:cmbAbbrStroke">̄</g>er par force de quel il ent<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>. Et dit q<g ref="char:cmbAbbrStroke">̄</g> le title del <abbr>pl</abbr> fuit meſne parent<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> le vſer de m<g ref="char:cmbAbbrStroke">̄</g> le br<g ref="char:cmbAbbrStroke">̄</g>e etle recouerer de icel, et dd<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>e iuge<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>t ſi accion ſoit &amp;c. ¶ <hi>Suliard.</hi> pur le <abbr>pl</abbr> dit que le terre ore miſe en vieu a les recognit<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>z daſſ. ne fuer<g ref="char:cmbAbbrStroke">̄</g> parcel del dit terre compriſe en le dit record<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> iugement &amp;c. ¶ <hi>Huſſey,</hi> ce<g ref="char:cmbAbbrStroke">̄</g> ple neſt bon, quaril eſt diuerſite ſi home voille pled<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> vn <abbr>rec</abbr> en aſſiſe dun man<g ref="char:cmbAbbrStroke">̄</g> dont terre &amp;. eſt parcel, &amp; le title del <abbr>pl</abbr> meſne, la e<g ref="char:cmbAbbrStroke">̄</g> bon ple adir<g ref="char:cmbAbbrStroke">̄</g> que cel terre neſt parcel de cel man<g ref="char:cmbAbbrStroke">̄</g>, quar ſil ne fuit parcel de m<g ref="char:cmbAbbrStroke">̄</g> la man<g ref="char:cmbAbbrStroke">̄</g> donq<g ref="char:cmbAbbrStroke">̄</g>s il neſt co<g ref="char:cmbAbbrStroke">̄</g>pris deins cel record<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> mes <abbr>daſc</abbr> autre eſt, quar vn acre neſt parcel dauter, et pur ceo il dirra bn<g ref="char:cmbAbbrStroke">̄</g> que cel terre ore miſe en vieu &amp;c. ne fuit co<g ref="char:cmbAbbrStroke">̄</g>pris en le dit record<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> de Formd<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>. Et ceo eſt bon ple, et iſſint eſt le diuerſite par que le <abbr>pl</abbr> pled<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> que nient compriſe priſt et alij econtra par que laſſiſe fuit priſe &amp;c. <hi>quod nota.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London in Fleteſtrete within Temple Barre, at the ſigne of the Hande and Starre, by Rycharde Tottel, the .xii. daye of September, in the yere of oure Lorde. <hi>1555.</hi>
+            </p>
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <hi>Cum priuilegio ad impri<g ref="char:EOLhyphen"/>mendum ſolum.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
